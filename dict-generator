@@ -1,6 +1,7 @@
 #!/usr/bin/python
 from pathlib import Path
 import re
+from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
 from requests import get
 from collections import Counter
@@ -25,17 +26,27 @@ parser.add_argument('-p', '--pattern', nargs='?', type=str, default="upperlower"
                     help='specify the [CASE] of entries [upperlower, lower, upper, alnum] :: DEFAULT : upperlower')
 parser.add_argument('-m', '--maximum', nargs='?', type=str, default="",
                     help='specify the [MAXIMUM] for all entries')
+parser.add_argument('-s', '--stopWordsFilter', action='store_true',
+                    help='don\'t show entries classed as common by NLTK.')
 
 args = parser.parse_args()
 
 text = ""
 
+# SOURCES
+#
 for i in args.sources:
     if Path(i).exists() and Path(i).is_file():
         text += Path(i).read_text()
     elif not Path(i).exists() and not Path(i).is_file() and validate_url(i):
         text += BeautifulSoup(get(i).content, 'html.parser').text
 
+# --pattern
+#
+# --length
+#
+# --maximum
+#
 if args.pattern == 'upperlower':
     pat = '\w'
 elif args.pattern == 'lower':
@@ -49,14 +60,26 @@ pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}", flags=r
 
 matchesDict = Counter(pattern.findall(text))
 
+
+# --stopWordsFilter
+#
+if args.stopWordsFilter:
+    SW = stopwords.words('english')
+    for entry in matchesDict:
+        if entry in SW:
+            matchesDict.pop(i)
+
+# --frequency
+#
 if not args.frequency:
     outputFormat = " str(word + '\\n') "
 elif args.frequency:
     outputFormat = " word + ' ' + str(frequency) + '\\n' "
+
 exec("result = ''.join([" + outputFormat + "for word, frequency in Counter("
     + "matchesDict).most_common(" + args.number + ")])")
-#
-# --output [flag]
+
+# --output
 #
 if not args.output:
     print(result)
