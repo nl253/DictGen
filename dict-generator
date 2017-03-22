@@ -1,28 +1,51 @@
 #!/usr/bin/python
 from pathlib import Path
 import re
+from bs4 import BeautifulSoup
+from requests import get
 from collections import Counter
 from argparse import ArgumentParser
-parser = ArgumentParser(description='Generate a dictionary from a file.')
-parser.add_argument('text_files', nargs='+', type=str)
+
+def validate_url(potentialURL):
+    if re.match('https?:.*', potentialURL):
+        return True
+    return False
+
+parser = ArgumentParser(description='Generate a dictionary from a file (and other tool).')
+parser.add_argument('sources', nargs='+', type=str)
 parser.add_argument('-o', '--output', nargs='?', type=str, default="",
-                    help='The [FILE] where the DICT should be written')
+                    help='The [OUTPUT FILE] where the DICT should be written')
 parser.add_argument('-f', '--frequency', action='store_true',
-                    help='Add [FREQUENCY] count to entries')
+                    help='Add [FREQUENCY] count to entries ')
 parser.add_argument('-l', '--length', nargs='?', type=str, default="2",
                     help='specify the minimul [LENGTH] of entries')
 parser.add_argument('-n', '--number', nargs='?', type=str, default="1000",
                     help='specify the [NUMBER] of entries')
+parser.add_argument('-p', '--pattern', nargs='?', type=str, default="upperlower",
+                    help='specify the [CASE] of entries [upperlower, lower, upper, alnum] :: DEFAULT : upperlower')
+parser.add_argument('-m', '--maximum', nargs='?', type=str, default="",
+                    help='specify the [MAXIMUM] for all entries')
+
 args = parser.parse_args()
-paths = [Path(i) for i in args.text_files if Path(i).
-         exists() and Path(i).is_file()]
-text = "".join([inputFile.read_text() for inputFile in paths])
 
+text = ""
 
-if not args.frequency:
-    pattern = re.compile("\w+", flags=re.MULTILINE)
-elif args.frequency:
-    pattern = re.compile("\w{" + args.length + ",}", flags=re.MULTILINE)
+for i in args.sources:
+    if Path(i).exists() and Path(i).is_file():
+        text += Path(i).read_text()
+    elif not Path(i).exists() and not Path(i).is_file() and validate_url(i):
+        text += BeautifulSoup(get(i).content, 'html.parser').text
+
+if args.pattern == 'upperlower':
+    pat = '\w'
+elif args.pattern == 'lower':
+    pat = '[a-z]'
+elif args.pattern == 'upper':
+    pat = '[A-Z]'
+elif args.pattern == 'alnum':
+    pat = '\S'
+
+pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}", flags=re.MULTILINE)
 
 matchesDict = Counter(pattern.findall(text))
 
