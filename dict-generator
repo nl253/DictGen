@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python
+#!/usr/bin/python
 from pathlib import Path
 import re
 from collections import Counter
@@ -22,18 +22,18 @@ text = "".join([inputFile.read_text() for inputFile in paths])
 if not args.frequency:
     pattern = re.compile("\w+", flags=re.MULTILINE)
 elif args.frequency:
-    pattern = re.compile("\w{3,}", flags=re.MULTILINE)
+    pattern = re.compile("\w{" + args.length + ",}", flags=re.MULTILINE)
 
 matchesDict = Counter(pattern.findall(text))
 
-# WORD : WORD FREQ
-# result = "".join([i + "\n" for i, j in Counter(matchesDict).most_common(10000)])
 if not args.frequency:
     outputFormat = " str(word + '\\n') "
 elif args.frequency:
     outputFormat = " word + ' ' + str(frequency) + '\\n' "
 exec("result = ''.join([" + outputFormat + "for word, frequency in Counter("
     + "matchesDict).most_common(" + args.number + ")])")
+#
+# --output [flag]
 #
 if not args.output:
     print(result)
