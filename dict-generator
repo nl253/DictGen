@@ -1,24 +1,44 @@
 ﻿#!/usr/bin/python
 from pathlib import Path
-import itertools
 import re
 from collections import Counter
 from argparse import ArgumentParser
-from pprint import pprint
-import pipes
 parser = ArgumentParser(description='Generate a dictionary from a file.')
 parser.add_argument('text_files', nargs='+', type=str)
-parser.add_argument('-o', '--output',action='store_true' ,help='The [FILE] where the DICT should be written')
+parser.add_argument('-o', '--output', nargs='?', type=str, default="",
+                    help='The [FILE] where the DICT should be written')
+parser.add_argument('-f', '--frequency', action='store_true',
+                    help='Add [FREQUENCY] count to entries')
+parser.add_argument('-l', '--length', nargs='?', type=str, default="2",
+                    help='specify the minimul [LENGTH] of entries')
+parser.add_argument('-n', '--number', nargs='?', type=str, default="1000",
+                    help='specify the [NUMBER] of entries')
 args = parser.parse_args()
-files = args.text_files
-paths = [Path(i) for i in files if Path(i).exists() and Path(i).is_file()]
-texts = [inputFile.read_text() for inputFile in paths]
-text = "".join(texts)
-pattern = re.compile("\w+", flags=re.MULTILINE)
+paths = [Path(i) for i in args.text_files if Path(i).
+         exists() and Path(i).is_file()]
+text = "".join([inputFile.read_text() for inputFile in paths])
+
+
+if not args.frequency:
+    pattern = re.compile("\w+", flags=re.MULTILINE)
+elif args.frequency:
+    pattern = re.compile("\w{3,}", flags=re.MULTILINE)
+
 matchesDict = Counter(pattern.findall(text))
+
 # WORD : WORD FREQ
+# result = "".join([i + "\n" for i, j in Counter(matchesDict).most_common(10000)])
+if not args.frequency:
+    outputFormat = " str(word + '\\n') "
+elif args.frequency:
+    outputFormat = " word + ' ' + str(frequency) + '\\n' "
+exec("result = ''.join([" + outputFormat + "for word, frequency in Counter("
+    + "matchesDict).most_common(" + args.number + ")])")
+#
 if not args.output:
-    [print(i) for i, j in Counter(matchesDict).most_common(10000)]
+    print(result)
 else:
-    [print(i) for i, j in Counter(matchesDict).most_common(10000)]
+    if not Path(args.output).exists():
+        Path(args.output).touch()
+    Path(args.output).write_text(result)
 
