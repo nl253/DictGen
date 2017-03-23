@@ -12,21 +12,43 @@ def validate_url(potentialURL):
         return True
     return False
 
+# - choices -- A container of values that should be allowed. If not None,
+# after a command-line argument has been converted to the appropriate
+# type, an exception will be raised if it is not a member of this
+# collection.
+
 parser = ArgumentParser(description='Generate a dictionary from a file (and other tool).')
 parser.add_argument('sources', nargs='+', type=str)
-parser.add_argument('-o', '--output', nargs='?', type=str, default="",
+parser.add_argument('-o', '--output',
+                    nargs='?',
+                    type=str,
+                    default="",
                     help='The [OUTPUT FILE] where the DICT should be written')
-parser.add_argument('-f', '--frequency', action='store_true',
+parser.add_argument('-f', '--frequency',
+                    action='store_true',
                     help='Add [FREQUENCY] count to entries ')
-parser.add_argument('-l', '--length', nargs='?', type=str, default="2",
+parser.add_argument('-l', '--length',
+                    nargs='?',
+                    type=str,
+                    default="2",
                     help='specify the minimul [LENGTH] of entries')
-parser.add_argument('-n', '--number', nargs='?', type=str, default="1000",
+parser.add_argument('-n', '--number',
+                    nargs='?',
+                    type=str,
+                    default="1000",
                     help='specify the [NUMBER] of entries')
-parser.add_argument('-p', '--pattern', nargs='?', type=str, default="upperlower",
-                    help='specify the [CASE] of entries [upperlower, lower, upper, alnum] :: DEFAULT : upperlower')
-parser.add_argument('-m', '--maximum', nargs='?', type=str, default="",
+parser.add_argument('-p', '--pattern', nargs='?',
+                    type=str,
+                    default="upperlower",
+                    choices=['lower', 'upper', 'alnum', 'upperlower'],
+                    help='specify the [CASE] of entries')
+parser.add_argument('-m', '--maximum',
+                    nargs='?',
+                    type=str,
+                    default="",
                     help='specify the [MAXIMUM] for all entries')
-parser.add_argument('-s', '--stopWordsFilter', action='store_true',
+parser.add_argument('-s', '--stopWordsFilter',
+                    action='store_true',
                     help='don\'t show entries classed as common by NLTK.')
 
 args = parser.parse_args()
