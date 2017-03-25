@@ -1,0 +1,2987 @@
+﻿GCSE COMPUTING
+THEORY
+Name:
+Group:
+SA Longley Page 1
+GCSE COMPUTING WORKBOOK
+Contents
+GCSE COMPUTING THEORY 1
+COMPUTER FUNDAMENTALS 4
+Input, Processing & Output 5
+The Importance of computer systems 7
+Reliability 8
+Computers and the Law 10
+Ethics 14
+Professional Standards 15
+Computers and the Environment 18
+Assessment Criteria 19
+Assessment 1 21
+Assessment 2 23
+HARDWARE 25
+The central Processing unit 26
+Binary Logic 27
+MEMORY 30
+Input & Output Devices 32
+Storage Devices 34
+Assessment Criteria 37
+Assessment 3 40
+Assessment 4 42
+COMPUTER SOFTWARE 44
+What is software? 45
+Operating Systems 45
+Utility software 52
+Types of Software 55
+Assessment Criteria 59
+Assessment 5 61
+Assessment 6 63
+DATA REPRESENTATION 65
+The need to represent data differently? 66
+BINARY 67
+Hexadecimal 71
+Page 2
+GCSE COMPUTING WORKBOOK
+Memory sizes 75
+Text 76
+Images 79
+Image files 83
+Sound 85
+Instructions 88
+Assessment Criteria 89
+Assessment 7 90
+Assessment 8 92
+DATABASES 94
+What is a Database? 95
+Database Management Systems 99
+Solving the problems of Flat File Databases 100
+More complex queries using Logical Operators 105
+Database task 107
+Data Validation 109
+Separating Data from Applications 111
+Assessment Criteria 112
+Assessment 9 114
+Assessment 10 116
+NETWORKING 118
+Why Network Computers? 119
+Topology 121
+Local Area Networks and Wide Area Networks 124
+How Computers Communicate 125
+Addressing 125
+Packets and Protocols 125
+Security on Networks 127
+Managing a network 128
+The Internet 129
+Web Pages 130
+Files of the Internet 133
+Compression 133
+Assessment Criteria 135
+Assessment 11 138
+Assessment 12 140
+Page 3
+GCSE COMPUTING WORKBOOK
+COMPUTER
+FUNDAMENTALS
+computer |kəmˈpjuːtə|
+noun
+an electronic device which is capable of receiving information (data) in a
+particular form and of performing a sequence of operations in accordance
+with a predetermined but variable set of procedural instructions (program) to
+produce a result in the form of information or signals.
+Page 4
+COMPUTER FUNDAMENTALS
+INPUT, PROCESSING & OUTPUT
+Computer systems all have input, processing and output. When you think of a computer system you
+may picture a desktop computer or laptop, but it could easily be a mobile phone, games console or
+your DVD player. They are all computer systems that have inputs, processing and outputs.
+Examples of computer systems
+Write below examples of computer systems that you may have in your house.
+Importance of computer systems Page 5
+COMPUTER FUNDAMENTALS
+Computer systems have a number of things in common. They all have take an INPUT and
+PROCESS it using instructions called programs. The results of the processing are shown as
+OUTPUTS. Computer systems can store programs and data for later use.
+INPUT
+PROCESSING
+OUTPUT
+STORAGE
+Importance of computer systems Page 6
+COMPUTER FUNDAMENTALS
+THE IMPORTANCE OF COMPUTER SYSTEMS
+Computer systems are used in almost every aspect of our lives. They have become important in our
+society and have brought us great advantages in our lives.
+How have computers helped us in the following areas?
+Business
+Medicine
+Entertainment
+Education
+What is a computer system? Page 7
+COMPUTER FUNDAMENTALS
+RELIABILITY
+It is important for computer systems to be
+reliable. Some systems need to be more
+reliable than others however.
+When we say something is reliable, we
+mean that it does what we expect. Many
+computers are complex pieces of
+hardware running complex software.
+Occasionally something will go wrong,
+such as a program may crash or a piece of
+hardware such as a hard drive may fail.
+Some computer systems could put people
+in danger if they fail or even lead to death. If your games console fails and a game crashes, whilst it
+is frustrating it does not compare with a computer system on an air liner. If a computer system on an
+aeroplane fails, it could lead to the plane crashing and people being killed.
+There are different ways of measuring reliability.
+One way is to measure how often a system is
+down for in a given time. So for example if a
+Superstore’s computer systems were run for
+100 hours and in that time, computer failure
+resulted in the computers not working for 3
+hours then we could say that the system has a
+97% reliability. The Superstore company would
+have to decide whether this was acceptable or
+not.
+If you need to have a computer system that is
+close to being 100% reliable then extra steps would need to be taken to make sure that things do
+not fail.
+Reliability Page 8
+SAT NAV FAIL
+TRAFFIC LIGHTS FAIL
+COMPUTER FUNDAMENTALS
+What steps could be taken to make a computer system more reliable?
+Reliability Page 9
+COMPUTER FUNDAMENTALS
+COMPUTERS AND THE LAW
+COMPUTER MISUSE ACT
+In the 1980’s a number of people were caught hacking into other people’s computer systems but
+the law at the time was not able to deal with these new crimes.
+The Computer Misuse Act 1990 was designed to protect the integrity of computer systems by
+deterring the activities of hackers. It created three new offences:
+• Unauthorised access to computer programs or data
+• Unauthorised access with a further criminal intent (known as the ‘ulterior intent’ offence)
+• Unauthorised modification of computer material.
+So what does all this mean? Well to start
+with it makes hacking illegal. Hacking is
+accessing a computer either physically or
+remotely, without the user’s permission. So
+you are not allowed to access a person’s
+computer or work area or look at the data
+stored there without the permission of the
+person whose data it is. This means
+hacking into some’s email account is illegal.
+This could lead to a fine of up to £5000 or
+6 months in prison.
+If the hacker then makes a change to any data on the computer system or they use their access to
+commit a further crime, like fraud or blackmail, they could face up to 5 years in prison. This is in
+addition to the sentence given for that additional crime.
+Some people write computer viruses. These pieces of
+software can travel from computer to computer and often
+change data on an infected machine. This means that
+virus writers can be sent to prison for up to 5 years.
+Computers and the law Page 10
+COMPUTER FUNDAMENTALS
+How do you think the following people have broken the laws in the Computer Misuse Act?
+A WPC used police national computer to access electoral rolls and car registration records in
+attempts to track down woman who had an affair with her boyfriend.
+A disgruntled IT supplier hacked estate agency website and replaced pictures of houses with
+inappropriate images.
+An employee who is about to made redundant finds the Managing Director’s password; logs into the
+computer system using this and looks at some confidential files.
+Computers and the law Page 11
+COMPUTER FUNDAMENTALS
+DATA PROTECTION ACT
+Many companies collect personal data which they use for their business. Some of this data is vital to
+the day to day running of these companies, such as being able to insure a car or house, or deliver
+goods. However this data can be valuable in other ways. If a car insurance company knew the
+names and addresses of who bought cars and when, then they could target them for mail shots at
+the right time for insurance renewal. The chances of getting a response would be higher.
+It was decided that the company who collects the data must look after it and can only pass it on
+with the owner’s permission. The Data Protection Act has eight statements about how a company
+must look after personal data they store. Failing to uphold these statements could lead to criminal
+prosecution.
+• Personal data must be obtained and processed fairly and lawfully.
+• Personal data must be held only for the purposes which the data user has declared. Personal
+data must not be used for purposes other than those which have been declared.
+• The personal data kept for the declared purpose must be relevant, adequate, and not excessive
+in relation to that purpose.
+• Personal data should be accurate and kept up to date (where appropriate).
+• Personal data must not be kept longer than is necessary for the purpose for which it is held.
+• An individual is entitled to find out whether and what data is held on him or her and, where
+appropriate, to have such data corrected or erased.
+• Appropriate measures must be taken to prevent unauthorised access, or modification of personal
+data.
+• Data should not transferred outside the UK without adequate protection.
+COPYRIGHT & PATENTS ACT
+With digital data, making copies has never been easier. Even though it is easy however, does not
+make it legal. Many things are covered under the copyright law such as music, film, photographs
+and software. Making copies of such items and sharing them with friends is often against copyright
+law and as such can be prosecuted.
+When buying a software pack it usually comes with a license that covers its use. This licence will
+inform you how many computers you are allowed to install the software onto.
+Computers and the law Page 12
+COMPUTER FUNDAMENTALS
+Explain the different types of license.
+Single User License
+Multi-User License
+Site License
+Some media file such as music and films may have DRM. What is DRM and what is it used for?
+Computers and the law Page 13
+COMPUTER FUNDAMENTALS
+ETHICS
+Laws are there to prevent and punish illegal behaviour but there are some situations that are not
+covered by the law. These are often ethical issues.
+Imagine a company could buy a computer system that would do the work of 50 people and could
+work 24 hours a day, 365 days a year. This could save the company a great deal of money and so
+would make sense commercially. However just making 50 people unemployed would be unethical.
+The company has an obligation to look after its work force. This may mean retraining them so they
+can work in areas that computer systems are not so well suited for.
+Employers need to make sure they respect health and safety regulations for their computer users.
+This may mean paying for eye tests and providing equipment to make it easier for people with
+disabilities to work effectively.
+A superstore chain in the USA used loyalty cards to track user purchases and to target vouchers.
+They were able to use buying habits to predict
+which women were pregnant and estimate when
+they would give birth. They were able to target
+vouchers for baby goods before the baby was
+born. Is this ethical? What would happen if the
+women didn’t want to announce the pregnancy
+and started receiving coupons for nappies and
+baby food?
+What do you think should be in a code of conduct for a computer company that is employed to
+create software for a number of different clients?
+Ethics Page 14
+COMPUTER FUNDAMENTALS
+PROFESSIONAL STANDARDS
+THE NEED FOR STANDARDS
+Most computer programs are very complex and require teams of people working together to
+complete the task. This requires some organisation if the program is going to work and perform the
+tasks required of it. There are many different standards that have been created for the design,
+development and testing of software.
+When creating a new computer system a number of stages need to be gone through in order to
+implement a solution effectively.
+Analysis of the current system. Understand what the current system does (if there is one), including
+what works well and what doesn’t work well.
+• Designing a new solution. Creating a new computer system to replace the old one, hopefully
+taking note of the things that don’t work well with the old system so they can be avoided.
+• Implementation the new system according to the design.
+• Testing the solution. This may have a number of stages. Alpha testing is usually done by the
+programmers to test against their designs. Beta testing often involves the end users so they can
+test it doing the types of jobs they do in real life situations.
+• Installing and training. This means putting in the new system and make sure the users have been
+trained sufficiently to do their job.
+Explain what is meant by the following types of standards.
+Proprietary Standards
+Open Standards
+Professional Standards Page 15
+COMPUTER FUNDAMENTALS
+Defacto Standards
+Industry Standards
+Standards in Software Development
+The programmers need to adhere to standards when they work in teams. Programs are usually
+broken down into chunks that can be implemented independently. In this way many programmers
+can work on a different parts of the program.
+For example if a new word processor is being written, one programmer may work on the code to
+format the text, while another programmer may work on making tables work and yet another may
+implement a spell checker.
+These separate tasks need to come together to work as a whole. The programmers need to make
+sure the interaction of the various parts work well together.
+Professional Standards Page 16
+COMPUTER FUNDAMENTALS
+What things do developers need to do to make sure they can work well together in the
+programs they create?
+Professional Standards Page 17
+COMPUTER FUNDAMENTALS
+COMPUTERS AND THE ENVIRONMENT
+RECYCLING
+The electronic circuit boards and components used in making modern computer devices often
+contain valuable materials. Much of the wiring is made of copper, which is a good electrical
+conductor. Small amounts of gold may be used instead, which is an even better conductor. There
+are also other rare metals such as tantalum. When computer systems such as PCs, games consoles
+and mobile phones come to the end of their usefulness
+they can often be thrown away. This is extremely wasteful.
+Laws have been passed in many countries to ensure that
+computer systems can be recycled easily or their life
+extended. Many businesses and organisations run
+powerful computers that when they become too slow to
+do the work they were purchased for, are often useful for
+schools and charities as well as in developing countries.
+There are companies that will even buy you old mobile
+phone and refurbish it before selling it to developing countries. In developing countries mobile
+phones can often be used in areas where it would not be economical to have fixed line telephones,
+and so there is big demand.
+Manufacturers also are being forced to make sure that the electronics they create can be more easily
+recycled to get the precious metals and other materials back so they can be used to make the next
+generation of gadgets.
+ENERGY EFFICIENCY
+We use computer systems so much in todays lifestyle that they are now making up a significant role
+in our usage of electricity. The electronics in your house hold could contribute around 6% of your
+electricity bill. Modern computer systems are designed to save energy when not in use. There are
+energy saving settings in most modern operating systems that allow you to configure your computer
+so that it can save energy when you are not using it.
+What features are there on modern computers that help make them energy efficient?
+Computers and the Environment Page 18
+COMPUTER FUNDAMENTALS
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) define a computer system
+b) describe the importance of computer systems in the modern world
+c) explain the need for reliability in computer systems
+d) explain the need for adherence to suitable professional standards in the development, use and
+maintenance of computer systems
+e) explain the importance of ethical, environmental and legal considerations when creating
+computer systems.
+Assessment 1 Criteria
+Targets
+Grade Description Achieved?
+F Able to recognise what is a computer system and what is not.
+E Able to recognise what is a computer system and what is not. Able to give some
+limited examples as to the importance of computer systems.
+D Able to recognise what is a computer system and what is not. Able to give some
+limited examples as to the importance of computer systems. Some understanding of
+reliability and its issues in relation to computer systems.
+C Able to recognise what is a computer system and what is not. Able to give some
+good examples as to the importance of computer systems. Fairly good
+understanding of reliability and its issues in relation to computer systems.
+B Able to recognise what is a computer system and what is not. Able to give some
+Good examples as to the importance of computer systems. Good understanding of
+reliability and its issues in relation to computer systems.
+A Able to recognise what is a computer system and what is not. Able to give some
+Excellent examples as to the importance of computer systems. Excellent
+understanding of reliability and its issues in relation to computer systems.
+Target Need to achieve
+Need to define a computer system with examples.
+Need to be able to describe the importance of computer systems in the modern world
+with examples
+Need to explain the need for reliability in computer systems with examples.
+Assessment 1 Page 19
+COMPUTER FUNDAMENTALS
+Assessment 2 Criteria
+Targets
+Grade Description Achieved?
+F Able to recognise what is a computer system and what is not.
+E Able to recognise what is a computer system and what is not. Able to give some
+limited examples as to the importance of computer systems.
+D Able to recognise what is a computer system and what is not. Able to give some
+limited examples as to the importance of computer systems. Some understanding of
+reliability and its issues in relation to computer systems.
+C Able to recognise what is a computer system and what is not. Able to give some
+good examples as to the importance of computer systems. Fairly good
+understanding of reliability and its issues in relation to computer systems.
+B Able to recognise what is a computer system and what is not. Able to give some
+Good examples as to the importance of computer systems. Good understanding of
+reliability and its issues in relation to computer systems.
+A Able to recognise what is a computer system and what is not. Able to give some
+Excellent examples as to the importance of computer systems. Excellent
+understanding of reliability and its issues in relation to computer systems.
+Target Need to achieve
+Need to explain the need for adherence to suitable professional standards in the
+development, use and maintenance of computer systems with examples.
+Need to be able to explain the importance of ethical, environmental and legal
+considerations when creating computer systems with examples.
+Assessment 1 Page 20
+COMPUTER FUNDAMENTALS
+ASSESSMENT 1
+1. Which of the following is a computer system? Tick the correct column (5)
+2. Jake has a new calculator. He claims that his calculator is a very basic computer. Is he correct?
+Explain your answer.(2)
+3. Computers have had a big impact on our everyday lives. Pick one area where computer systems
+have changed our lives and using examples explain how computer systems have benefited us.
+(5)
+Item Is a computer system Is NOT a computer system
+Games console
+Food processor
+Smart phone
+Smoke detector
+Burglar alarm system
+Assessment 1 Page 21
+COMPUTER FUNDAMENTALS
+4. What is mean by the term reliable?(2)
+5. A school has just purchased a new computer system to keep electronic registers and mark
+books. The system manufacturers say the system is reliable. In this case what do you think this
+means and what would the possible problems be if the system was not as reliable as
+advertised? (6)
+Assessment 1 Page 22
+COMPUTER FUNDAMENTALS
+ASSESSMENT 2
+1. Which law would you be breaking if you did the following: (3)
+2. Computers are usually designed to save energy. Describe two ways in which they can save
+energy. (2)
+3. Describe the difference between an open standard and a proprietary standard. (2)
+4. Bob’s Cars is a car sales business. Bob wants to sell his customer information to insurance
+companies. Can he do this? (2)
+Crime Law Broken
+Released a computer virus
+Shared digital music
+Sold a customer database without
+the customer’s permission
+Assessment 2 Page 23
+COMPUTER FUNDAMENTALS
+5. A youth club decides to buy a software package to record the details of its members and the
+activities they offer. What legal issues does the youth club need to consider when using such a
+system? (6)
+Assessment 2 Page 24
+COMPUTER HARDWARE
+HARDWARE
+hardware |ˈhɑːdwɛː|
+noun [ mass noun ]
+the machines, wiring, and other physical components of a computer or
+other electronic system. select a software package that suits your requirements and
+buy the hardware to run it on.
+Page 25
+COMPUTER HARDWARE
+THE CENTRAL PROCESSING UNIT
+The Central Processing Unit (CPU) is the brain of the computer. It is the part of the computer that
+carries out the instructions of the computer system.
+The CPU has understands a number of instructions. The CPU has two
+parts. The Arithmetic Logic Unit which performs arithmetic and logical
+operations such as addition, subtraction and comparing values. The
+Control Unit gets instructions from memory (RAM), decodes them and
+executes the instructions, using the ALU when needed. Putting it simply,
+the CPU fetches instructions and then executes them. There are three
+basic types of instructions.
+• Get some data from RAM and perform some arithmetic or logic on it
+such as add them together, multiply them together or compare them
+(such as decide which number is the largest).
+• Move data from one part of memory to another.
+• Make a decision and fetch a different instruction from memory based on that decision.
+•
+There are a number of factors that effect the speed of the processor.
+Explain how these factors affect the speed of the computer’s CPU.
+Clock Speed
+Number of Cores
+Cache memory
+The CPU Page 26
+COMPUTER HARDWARE
+BINARY LOGIC
+JUST ON AND OFF
+For all the complexity of a computer system, at their heart is something really simple. The CPU, and
+the memory are just a series of switches. These switches have two settings, on or off. There are
+billions of switches that make up a modern computer, and all the data and programs that run on
+them must be stored on a series of switches that are either on or off. The CPU when it processes
+instructions, really just turns different switches on and off. It is when the settings of these switches
+are turned into something we can understand, like a sound or pixels on a screen, that we can
+interpret what the computer has done.
+In order for the computer system to be able to make decisions about which switches to turn on or
+off, there are a series of circuits called gates. These take a signal which can either be on or off, and
+then alter it in some way. These gates are called logic gates. By combining them in different ways
+the computer system can make decisions. Its using logic gates that enable the computer system to
+work.
+The NOT Gate
+This is the simplest of the logic gates. The symbol for a logic gate is shown below.
+The NOT gate takes a signal A and inverts it. This means that if A is ON then Y will be OFF. Similarly
+if A is OFF then Y will be on. This can be shown in a table known as a truth table.
+INPUT A OUTPUT Y
+1
+0
+Binary Logic Page 27
+COMPUTER HARDWARE
+The OR Gate
+The OR gate takes two inputs. Each of these inputs can be ON or OFF. Diagram for an OR gate is
+shown below.
+The OR gate is so called because if input A or Input B are on then output Y will be on too. This can
+be shown in the truth table.
+Notice that even if A and B are on then the output Y is on.
+The AND Gate
+The AND gate has two inputs like the OR gate. It gets its name from the fact that both inputs A and
+B need to be on for the output Y to be on. The diagram for an AND gate is shown below.
+INPUT A INPUT B OUTPUT Y
+1 0
+0 0
+1 1
+0 1
+INPUT A INPUT B OUTPUT Y
+1 0
+0 0
+1 1
+0 1
+Binary Logic Page 28
+COMPUTER HARDWARE
+COMBINING GATES
+In a computer chip these logic gates can be combined to make more complex gates, to make more
+complex decisions. Take a look at the example below.
+It is an OR gate that flows into a NOT gate. If A or B are on then C will be on. If C is on then the NOT
+gate will invert that switch and turn it off.
+Writing a truth table is often a good idea to see all the different combinations and allows us to work
+out what is going on more easily.
+So we can see that as long as there is an input in A or B the final result will be that Y is off. Only
+when A and B are both off will the output Y be on.
+Lets have a look at another example.
+Here we have a NOT gate moving into one of the inputs of an AND gate. So lets look at our truth
+table for this.
+INPUT A INPUT B OUTPUT C OUTPUT Y
+1 0
+0 0
+1 1
+0 1
+INPUT A INPUT B OUTPUT C OUTPUT Y
+1 0
+0 0
+1 1
+0 1
+Binary Logic Page 29
+COMPUTER HARDWARE
+MEMORY
+Computers need to remember a lot of data. This includes all the programs that are currently running,
+all the data associated with those programs, along with data to do with the computer’s current
+settings, user input and output. All this data is stored in the computer’s memory. There are two types
+of computer memory, RAM and ROM.
+RAM stands for Random Access Memory. It is called random access memory because the data
+stored in it can be accessed in any order. ROM stands for Read Only Memory.
+Complete the table below for the differences between RAM and ROM.
+VIRTUAL RAM
+Modern operating systems have a way of using the hard disc to extend the amount of RAM available
+to the computer. This virtual memory enables computer systems to act like they have more RAM
+than they have by using the hard disc.
+Reading and writing from the hard disc is much slower than using RAM, so one way to increase the
+speed of a computer system is to have more RAM and rely less on virtual memory.
+RAM ROM
+Memory Page 30
+COMPUTER HARDWARE
+CACHE MEMORY
+This type of RAM is usually made from faster more expensive chips than the computer systems main
+memory and is located either in the CPU or close to it. It is used to store data or instructions from
+commonly used parts of RAM.
+Processor
+RAM
+Level 2
+Cache
+Level 1
+Cache
+Memory Page 31
+Use the diagram to
+explain how cache
+speeds up a computer
+processor.
+COMPUTER HARDWARE
+INPUT & OUTPUT DEVICES
+Input and output devices allow us to communicate with and control computer systems and enable
+them to communicate with us in ways we can understand. There are a variety of different input and
+output devices, each suited to a particular job.
+INPUT DEVICES
+Device Description
+Keyboard The keyboard is probably the most common type of
+input device on a computer system. The keyboard is
+inspired by mechanical type writers, and still adopts the
+QWERTY layout of keys. Pressing a key on a keyboard
+to input some data. Sometimes the key press creates a
+letter on the screen, while a combination of keystrokes
+can cause a more complex action.
+Mouse
+Microphone
+Camera
+Input & Output Devices Page 32
+COMPUTER HARDWARE
+OUTPUT DEVICES
+Output devices convert the binary data stored in the computer into a form we can understand.
+Device Description
+Screen/Monitor
+Speakers
+Printer
+Vibration
+Input & Output Devices Page 33
+COMPUTER HARDWARE
+STORAGE DEVICES
+Why we need to store?
+Computers need computer programs to run and data to manipulate. When the computer system is
+working, these are stored in the memory or RAM. When a computer system is turned off, all the
+programs and data stored in RAM are lost. If you had to type in a computer program every time you
+wanted to use it, it would be a very slow and tedious task. Some modern computer programs can
+be millions of lines of code long. Entering a document over and over again would also be a waste of
+time.
+Computers need a way of storing data so that it can be loaded into RAM quickly when the computer
+system is turned on again. We also need to be able to transport data from one computer to another.
+Computer systems have different ways of storing data. These ways each have their advantages and
+disadvantages and can hold different amounts of data.
+Magnetic Discs
+Most computer systems have a hard disc drive. This is used to store the operating system,
+programs and data and is usually located inside the computer system itself. The hard disc is a
+platter of metal that can be magnetised. The disc spins rapidly and arm can move across the disc to
+read or write data. In some hard discs there may be more than one platter to increase the storage
+capacity.
+Advantages
+Disadvantages
+Storage Devices Page 34
+COMPUTER HARDWARE
+Optical Discs
+These drives use lasers to read from an optical disc such as a CD, DVD or a Blu-ray disc. The disc is
+removable and so can be used in a number of computers. Many optical discs
+are read only. Once the data has been encoded on the disc, it cannot
+be altered. It is often used to store the installation program for
+software. So a DVD disc is used to install or copy the
+important files onto a computer’s hard drive. Once this
+is done the DVD is not needed, unless you
+need to install the software again.
+Advantages
+Disadvantages
+Storage Devices Page 35
+COMPUTER HARDWARE
+Solid State
+These are erasable ROM chips that can be wiped and written to electronically, but when the power
+is off they retain the data stored on them. These discs were
+initially used for removable storage for portable devices such as
+digital cameras. The removable discs have a limit to their
+capacity due to their size. They do have a limit to how many times
+they can be erased and re-written to, but advances in technology
+make the latest drives comparable with hard discs in terms of life
+span.
+Advantages
+Disadvantages
+Storage Devices Page 36
+COMPUTER HARDWARE
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) state the purpose of the CPU,describe the function of the CPU as fetching and executing
+instructions stored in memory and explain how common characteristics of CPUs such as clock
+speed, cache size and number of cores affect their performance.
+b) explain why data is represented in computer systems in binary form
+c) understand and produce simple logic diagrams using the operations NOT, AND and OR,
+produce a truth table from a given logic diagram.
+d) describe the difference between RAM and ROM and explain the need for ROM in a computer
+system. Be able to describe the purpose of RAM in a computer system and explain how the
+amount of RAM in a personal computer affects the performance of the computer. Be able to
+explain the need for virtual memory,describe cache memory and describe flash memory. Be able
+to discuss how changes in memory technologies are leading to innovative computer designs.
+e) understand the need for input and output devices and describe suitable input devices for a wide
+range of computer controlled situations as well as describe suitable output devices for a wide
+range of computer controlled situations. Be able to discuss input and output devices for users
+with specific needs.
+f) explain the need for secondary storage and describe common storage technologies such as
+optical, magnetic and solid state. Be able to select suitable storage devices and storage media
+for a given application and justify their choice using characteristics such as capacity, speed,
+portability, durability and reliability.
+Assessments Page 37
+COMPUTER HARDWARE
+Assessment 3 Criteria
+Targets
+Grade Description Achieved?
+F Have very basic knowledge of the CPU and Binary Logic gates.
+D Have basic knowledge of the CPU and Binary Logic gates.
+C Have a good understanding of Logic gates and a some knowledge of the CPU and
+factor that effect its speed.
+A Have an excellent understanding of logic gates and the CPU and the factors that
+effect its performance in a computer system.
+Target Need to achieve
+Need to be able to state the purpose of the CPU,describe the function of the CPU as
+fetching and executing instructions stored in memory and explain how common
+characteristics of CPUs such as clock speed, cache size and number of cores affect
+their performance.
+Need to be able to understand and produce simple logic diagrams using the operations
+NOT, AND and OR, produce a truth table from a given logic diagram.
+Assessments Page 38
+COMPUTER HARDWARE
+Assessment 4
+Targets
+Grade Description Achieved?
+F Can recall, select and communicate a basic knowledge and understanding computer
+hardware.
+E Have a basic knowledge and understanding of the function, application merits and
+implications of some computer hardware.
+D Have a reasonable knowledge and understanding of the function, application merits
+and implications of some computer hardware.
+C Have a good knowledge and understanding of the function, application merits and
+implications of a range of computer hardware.
+B Can recall, select and communicate a fairly thorough knowledge and understanding
+of the function, application, merits and implications of a broad range of computer
+hardware.
+A Can recall, select and communicate a thorough knowledge and understanding of the
+function, application, merits and implications of a broad range of computer hardware.
+Target Need to achieve
+Need to be able describe the difference between RAM and ROM and explain
+the need for ROM in a computer system. Be able to describe the purpose of
+RAM in a computer system and explain how the amount of RAM in a personal
+computer affects the performance of the computer. Be able to explain the need
+for virtual memory,describe cache memory and describe flash memory. Be able
+to discuss how changes in memory technologies are leading to innovative
+computer designs.
+Need to be able understand the need for input and output devices and describe
+suitable input devices for a wide range of computer controlled situations as well
+as describe suitable output devices for a wide range of computer controlled
+situations. Be able to discuss input and output devices for users with specific
+needs.
+Need to be able explain the need for secondary storage and describe common
+storage technologies such as optical, magnetic and solid state. Be able to
+select suitable storage devices and storage media for a given application and
+justify their choice using characteristics such as capacity, speed, portability,
+durability and reliability.
+Assessments Page 39
+COMPUTER HARDWARE
+ASSESSMENT 3
+1. Lawrence is buying a new computer. He is comparing two computers. The first one has these
+specifications.
+Quad-Core and Dual GPU
+3.7GHz Quad-Core Intel Xeon E5 processor
+10MB of L3 cache
+12GB 1866MHz DDR3 ECC memory
+Dual AMD FirePro D300 with 2GB GDDR5 VRAM each
+256GB PCIe-based flash storage
+a. Explain what is meant by Quad core. (1)
+b. Explain what is meant by cache. (1)
+c. Explain what is meant by clock speed (1)
+He is also looking at this computer.
+6-Core and Dual GPU
+3.5GHz 6-Core Intel Xeon E5 processor
+12MB of L3 cache
+16GB 1866MHz DDR3 ECC memory
+Dual AMD FirePro D500 with 3GB GDDR5 VRAM each
+256GB PCIe-based flash storage
+d. Which processor will perform better and why? (2)
+Assessment 3 Page 40
+COMPUTER HARDWARE
+2.
+a. What are the following logic gates? (3)
+b. Complete the truth table for the following logic gate diagram.(8)
+Gate Diagram Name
+A B C Y
+1 1 0
+1 0 0
+0 1 0
+0 0 0
+1 1 1
+1 0 1
+0 1 1
+0 0 1
+Assessment 3 Page 41
+COMPUTER HARDWARE
+ASSESSMENT 4
+1. What is the difference between RAM and ROM? Complete the table. (4)
+2. Melissa’s computer has 4Gb RAM and has been running slow. Rebecca tells Melissa it is
+because she is running a lot of programs at once and is using a lot of Virtual RAM. What is virtual
+RAM and how could Melissa use less of it to speed her computer up? (3)
+3. A smart phone has input and output devices on them. Which device are the following.(6)
+Feature RAM ROM
+Data wiped when turned off
+Data can be changed
+Used as the computer’s main
+memory
+Used to store a computer’s BIOS
+Device Input device Output device
+Home button
+Screen
+Camera
+Volume buttons
+Vibration alert
+Microphone
+Assessment 4 Page 42
+COMPUTER HARDWARE
+4. A computer has accessibility options to help those who have disabilities to use the computer.
+How could these options help someone who is visually impaired? (3)
+5. Which storage device is most suitable for the following tasks. (3)
+6. What is the difference between primary storage and secondary storage?(1)
+7. Explain how cache memory works to speed up a computer processor. (3)
+Task Storage device
+Store computer programs for everyday use
+Transport documents between school and home
+Distribute software to customers
+Record pictures from a digital camera
+Back up photographs
+Store files for access on a network
+Assessment 4 Page 43
+SOFTWARE
+COMPUTER
+SOFTWARE
+software |ˈsɒf(t)wɛː|
+noun [ mass noun ]
+the programs and other operating information used by a computer. [ as
+modifier ] : the software industry.
+End of Unit Assessment 2 Page 44
+SOFTWARE
+WHAT IS SOFTWARE?
+Without software to make them work, computer systems are just electronic circuits without
+instructions telling them what to do.
+Software is the why we use a computer. These are the programs that allow us to do
+something useful with our computer.
+OPERATING SYSTEMS
+Most modern computer systems, from laptops to phones to games consoles, need to have
+some software that makes the hardware work properly. This is called an Operating System
+(OS).
+Can you name some operating systems?
+The Operating System (OS) allows the programs that run on the computer to interact with
+the different hardware in a consistent way. When you
+save a document to a disc, you don’t need to worry
+about whether it is a hard disc from one manufacturer or
+a solid state drive from another. The way the data is
+written to these discs is different, but the OS hides these
+differences from the user and the programmer who wrote
+your application.
+The OS enables your computing device to communicate
+with the different hardware that can connect to your
+computer, from disc drives and printers to monitors and
+network connections. When you need to use these
+different devices the OS provides a consistent way to use
+them.
+Operating Systems Page 45
+User
+Application
+Operating System
+Hardware
+SOFTWARE
+When you get a new piece of hardware you will get a driver that enables the OS to
+communicate with it. So when you when you want to print a document, the OS loads the
+printer driver for the printer you want to use. It provides a similar set of options no matter
+which printer you use. There may be some options though that are specific to each printer.
+When you want to save a document to a drive the Operating System takes care of that. It
+uses the appropriate device driver for the hardware and passes the document data to the
+driver. The driver takes that data and gives instructions as to how to save that data to the
+device. These instructions would be different if the data is being saved to a hard drive or a
+solid state USB memory stick or a writable CDR. The Operating system gives the user the
+same interface and experience, even though how the data gets saved may be different each
+time.
+If there is no device driver available for a piece of hardware then it will not work and is not
+compatible with your Operating System.
+Hardware Device driver Operating
+System
+Operating Systems Page 46
+SOFTWARE
+INTERFACES
+The OS provides the interface for the user to interact with the computer system. There are
+different types of interfaces.
+Below is the electronic program guide (epg) for Sky+
+What type of interface is this?
+Explain how the interface is used to control this computer system.
+What are the advantages and disadvantages of this type of system.
+Operating Systems Page 47
+SOFTWARE
+This type of interface used to be the only interface computers could use. Now-a-days it is
+used mainly by experts and computer technicians to perform tasks.
+What type of interface is this?
+Explain how the interface is used to control this computer system.
+What are the advantages and disadvantages of this type of system.
+Operating Systems Page 48
+SOFTWARE
+This type of interface is one you are most used to seeing. This type of user interface is
+common on modern desktop and laptop computers. Tablets and smartphones may have a
+touch sensitive version of this interface.
+What type of interface is this?
+Explain how the interface is used to control this computer system.
+What are the advantages and disadvantages of this type of system.
+Operating Systems Page 49
+SOFTWARE
+MANAGING MEMORY
+The OS manages how memory is given to applications so they do not clash. When you start
+a new program or load a file the OS assigns each its own computer memory space so they
+do not interfere with each other.
+What type of computer memory are computer programs loaded into?
+What is the size of computer memory measured in?
+MANAGING STORAGE
+When the computer is turned off all data is wiped from the computer’s memory. So
+programs and data can easily be loaded back into memory they are stored.
+What type of devices can be used to store programs and data for computer systems?
+Operating Systems Page 50
+SOFTWARE
+Before a storage device can be used it needs to be formatted before it can be used. The
+OS does this. When a hard disc is formatted. This breaks the disc down into chunks that
+the OS can address. Each region can store some data and each region has an address so
+the OS can read and write data.
+SECURITY
+The OS also deals with system security. This makes sure that only certain users can perform
+particular actions like install new software and delete files. Each user has a username and a
+password and the OS can give each user permissions to be able to carry out various tasks.
+Operating Systems Page 51
+Hard disc
+SOFTWARE
+UTILITY SOFTWARE
+There are some programs that come with the OS or that can be bought separately, that can
+help keep the computer running smoothly. There are a number of different types of utility
+software.
+There are a number of types of utility software.
+ANTI-VIRUS SOFTWARE
+This software scans the computer for viruses and removes any found. It can also prevent
+any new viruses from infecting the computer.
+What is meant by a computer virus?
+What types of things could a computer virus do?
+Why must Antivirus software be kept up to date?
+Utility Software Page 52
+SOFTWARE
+FIREWALL
+When you connect to a network such as the Internet, there is data leaving your computer
+and data returning. A firewall is software (or sometimes hardware) that checks data travelling
+along the network connection and blocks it if is not allowed.
+How might a firewall be used in school to protect students?
+How does a firewall help prevent you from being attacked by hackers?
+SPYWARE PROTECTION
+Some software that you install monitors what you do without you knowing. It may monitor
+your Internet use or log your key presses.
+What type of data could the spyware monitor?
+Utility Software Page 53
+SOFTWARE
+DISK DEFRAGMENT
+When you add files and programs to a new computer it can often slow down. This is often
+due to the the way some OS’s save files. Each sector on the hard disc is capable of holding
+files of a certain size. If a file is bigger than one sector it may take up a number of sectors.
+Sometimes when the OS saves a file it starts saving it some sectors but runs out before the
+file is completely saved. It then breaks up the file and saves the rest in a different part of the
+hard drive. This means that the file is in fragments. Reading the file can be slow as the
+mechanical read/write heads on the drive need to move to different parts of the disc.
+Defragmenting a drive moves the fragments so they are all together on the disc.
+Draw what the files in a hard disc may look like in a fragmented drive.
+Draw what the disc would look like after it has been defragmented.
+Utility Software Page 54
+SOFTWARE
+TYPES OF SOFTWARE
+OFF THE SHELF SOFTWARE
+Most, if not all the software on your computer will be off the shelf software.
+Most people start with software that has been written by someone else, usually a software
+company, that designs software to sell to a mass market. This software includes programs
+like image editing packages and office applications like word processors, spreadsheets and
+databases. These programs have mass appeal because they can be used for a variety of
+tasks. A word processor for example can be used to write a thank you letter to grandma, a
+school report or your next novel. As result these types of software packages are known as
+general purpose software for their ability to perform a number of related tasks.
+The price and availability of off the shelf software is often low. The more specialised the
+market for that type of software, the higher the price, due to the fact that fewer people
+would buy the software. A simple word processor like Apple’s Pages may cost a few
+pounds while Microsoft Word has more features and so costs more.
+SOFTWARE USAGE
+Word processor Reports, letters, books, scripts
+Types of Software Page 55
+SOFTWARE
+The advantages of off the shelf software are:
+The disadvantages of off the shelf software are:
+BESPOKE SOFTWARE
+Sometimes the software available for purchase just doesn’t meet the needs of what you
+require. In these instances you can have the software custom written for you needs. There
+are considerable challenges and costs involved but the result is that you get a piece of
+software that does exactly what you want. This custom designed software is known as
+bespoke software.
+The advantages of bespoke software are:
+The disadvantages of bespoke software are:
+Types of Software Page 56
+SOFTWARE
+OPEN SOURCE V PROPRIETARY SOFTWARE
+Proprietary software is software that you buy from a company. They write the programming code to
+make the application and this code is then compiled to produce the binary executable program that
+they sell on disc or as a download. You cannot look at the code that was used to make the
+program. That code belongs to the software development company that wrote the program. They
+will often guard this code as it makes sure that the techniques they used cannot be used by other
+people freely. The company often wants to guard it their code so as to have a competitive advantage
+over other companies. A lot of the programs that you have bought will be proprietary. If you want a
+feature adding to the software, or you have found a bug, then you need to wait for the software
+developer to do that. This may take some time and in the case of new features, may never happen.
+Proprietary software will often be developed behind closed doors, so that customers do not know
+what features are being developed in new versions of the software and when they may arrive.
+Proprietary software can often lock users into using that software, making sure that data cannot be
+transferred easily to other programs, especially those of a competitor. This makes it difficult to
+change to a different program.
+What is Open Source Software?
+Some programmers create programs and then share the code they used with other people. In this
+way the source code is open and anyone can see how it works, make changes and improvements,
+contributing to the continued development of the software. Open source software is often free, and
+can have hundreds of developers around the world contributing to the development of the software.
+There are many open sources projects, many trying to mimic proprietary applications.
+The advantage of open source software is that you can download the source code and see how it
+works. Changes can be made to give the software the features you want without having to write a
+program from scratch.
+Many, (though not all) open source programs have many developers from all over the world working
+on them. As there are so many developers looking at the code and checking it, bugs get found and
+fixed more rapidly than proprietary software. It can be more quickly updated. The web browsers like
+Firefox and Chrome are open source. Whilst some of the big open source applications like Blender
+and Linux have books written about them, some of the smaller projects have very little in the way of
+documentation, let alone a published book or tutorial.
+Open source projects often have a roadmap published showing a plan for when features are going
+to be added. This can make it easy to see when an important feature may be added. Some open
+source projected are released before being version 1 and so may be lacking some features, and
+there may still be bugs in the application.
+Types of Software Page 57
+SOFTWARE
+There is a great deal of open source software that can be as good as or sometimes better than
+proprietary software. Open source software is free.
+Proprietary Software Open Source Equivalent
+Microsoft Windows
+Microsoft Office
+Adobe Photoshop
+Adobe Illustrator
+3DS Max
+Microsoft SQL Server
+Adobe Audition
+Adobe InDesign
+Microsoft Internet Explorer
+Types of Software Page 58
+SOFTWARE
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) explain the need for the following functions of an operating system: user interface, memory
+management, peripheral management, multi-tasking and security
+b) describe the purpose and use of common utility programs for computer security (antivirus,
+spyware protection and firewalls), disk organisation (formatting, file transfer, and
+defragmentation), and system maintenance (system information and diagnosis, system cleanup
+tools, automatic updating)
+c) discuss the relative merits of custom written, off the shelf, open source and proprietary software.
+Assessment 5 Criteria
+Targets
+Grade Description Achieved?
+F Can recall, select and communicate a basic knowledge and understanding of
+computer operating systems and their functions.
+D Can recall, select and communicate a fairly good knowledge and understanding of
+the function, application merits and implications of a range of computer operating
+systems and their functions.
+C Can recall, select and communicate a good knowledge and understanding of the
+function, application merits and implications of a range of computer operating
+systems and their functions.
+A Can recall, select and communicate a thorough knowledge and understanding of the
+function, application, merits and implications of a broad range of computer operating
+systems and their functions.
+Target Need to achieve
+Need to be able to explain the need for the following functions of an operating
+system: user interface, memory management, peripheral management, multitasking
+and security with examples.
+Assessments Page 59
+SOFTWARE
+Assessment 6 Criteria
+Targets
+Grade Description Achieved?
+F Can recall, select and communicate a basic knowledge and understanding of
+software and related issues.
+D Can recall, select and communicate a fairly good knowledge and understanding of
+the function, application merits and implications of a range of software and related
+issues.
+C Can recall, select and communicate a good knowledge and understanding of the
+function, application merits and implications of a range of software and related issues.
+B Can recall, select and communicate a fairly thorough knowledge and understanding
+of the function, application, merits and implications of a broad range of software and
+related issues.
+A Can recall, select and communicate a thorough knowledge and understanding of the
+function, application, merits and implications of a broad range of software and related
+issues.
+Target Need to achieve
+Need to be able to describe the purpose and use of common utility programs
+for computer security (antivirus, spyware protection and firewalls), disk
+organisation (formatting, file transfer, and defragmentation), and system
+maintenance (system information and diagnosis, system cleanup tools,
+automatic updating)
+Need to be able to discuss the relative merits of custom written, off the shelf,
+open source and proprietary software.
+Assessments Page 60
+SOFTWARE
+ASSESSMENT 5
+1. Which of the following is NOT a function of a modern operating system? (6)
+2. A low powered computer system is used to control a ticket machine. Which type of user
+interface would best be suited for the ticket machine and why? (3)
+3. A computer technician controls a network switch using a command line interface. What
+are the advantages and disadvantages that a command line interface have? (4)
+Advantages
+Disadvantages
+Function Carried out by the Operating
+System
+NOT carried out by the
+Operating System
+Controlling hardware
+Creating a user interface
+Scanning files for viruses
+Defragmenting hard drives
+Allocating memory to programs
+Creating a firewall to protect
+against unauthorised network
+access
+Assessment 5 Page 61
+SOFTWARE
+4. Ellie has bought a new scanner for her computer but cannot get it working. What does
+she need to install to get her new hardware working with her Operating System and
+why? (2)
+5. Before a hard drive can be used it must be formatted. What does this mean? (2)
+6. An Operating System can add security to a computer system. The users of a computer
+system have their own user accounts. How does having different user accounts provide
+security for the computer system? (2)
+Assessment 5 Page 62
+SOFTWARE
+ASSESSMENT 6
+1. What is meant by Utility software? (1)
+2. Antivirus and Firewall software are two examples of utility software. Explain how each protects
+your computer from harm. (4)
+3. Defragmentation software can keep your hard drive running quickly. Explain how it works. (3)
+4. What is the difference between bespoke software and ‘Off-the-shelf’ software?(4)
+End of Unit Assessment 3 Page 63
+SOFTWARE
+5. What are the advantages and disadvantages of proprietary software over open source software.
+(5)
+End of Unit Assessment 3 Page 64
+DATA REPRESENTATION
+DATA
+REPRESENTATION
+data |ˈdeɪtə|
+noun [ mass noun ]
+facts and statistics collected together for reference or analysis:
+• the quantities, characters, or symbols on which operations are performed by
+a computer, which may be stored and transmitted in the form of electrical
+signals and recorded on magnetic, optical, or mechanical recording media.
+Page 65
+DATA REPRESENTATION
+THE NEED TO REPRESENT DATA DIFFERENTLY?
+There are 10 types of people in the world. Those who understand binary and those who
+don’t.
+If that quote doesn’t make any sense now then hopefully by the end of this chapter it will.
+In primary school when learning about place value you may have put headings above numbers like
+the table below.
+Can you remember what do the headings mean? They stand for hundreds, tens and units. The
+smallest digit that a column can hold is 0 while the largest is 9. If 1 is added to a column then that
+column goes back to 0 and 1 is added to the next column. So when 1 is added to 9 this becomes
+10. So we now have 1 ten and no units.
+How data is stored in computers
+Computers are made up from millions of switches. These switches can be ON or OFF. Everything in
+a computer from numbers to text, from sounds to pictures must be converted into a series of ON’s
+and OFF’s.
+Computer scientists often think of these switches as 0s and 1s.
+0 = OFF
+1 = ON
+Each 0 or 1 is known as a binary digit or Bit.
+Computers would be pretty useless if the biggest number it could deal with was the number 1
+unless it had a way of storing larger numbers from a series of 0s and 1s. This is Binary. It is a way of
+storing numbers as a series of 0s and 1s.
+H T U
+5
+1 2
+2 5 4
+Binary Page 66
+DATA REPRESENTATION
+BINARY
+Introduction to Binary
+Computers often group together 8 bits. This makes one byte.
+Just like in denary (the number system we use) we often use column headings to remind us of the
+place value.
+This is the number 1. Each column heading is a power of 2.
+How to convert from denary to binary
+You often need to convert a number from denary into binary.
+How to convert 37 into a binary number.
+What is the biggest number that goes into 37 without going over. Looking at the grid 32 is the
+highest number, so we put a 1 in that column.
+Now we take 32 from 37.
+This leaves 5. Now we repeat the process.
+4 goes into 5 without going over. So we put a 1 in the 4 column.
+That leaves us with 1. So we can put a 1 in the 1 column and then this is our answer.
+So 37 in binary is 00100101 or just 100101.
+128 64 32 16 8 4 2 1
+0 0 0 0 0 0 0 1
+128 64 32 16 8 4 2 1
+0 0 1 0 0 0 0 0
+128 64 32 16 8 4 2 1
+0 0 1 0 0 1 0 0
+128 64 32 16 8 4 2 1
+0 0 1 0 0 1 0 1
+Binary Page 67
+DATA REPRESENTATION
+Converting binary numbers into denary
+This is much easier. It is just a matter of adding up the columns which contain a 1.
+Convert 01010110 into denary.
+Put the numbers under the place headings.
+So the answer is 64+16+4+2 = 86.
+Exercise
+Convert the following decimal numbers into an eight bit binary number
+128 64 32 16 8 4 2 1
+0 1 0 1 0 1 1 0
+Convert this number
+to binary
+128 64 32 16 8 4 2 1
+5
+7
+17
+38
+39
+41
+46
+58
+69
+115
+128
+133
+134
+156
+160
+166
+203
+239
+Binary Page 68
+DATA REPRESENTATION
+Convert the following binary numbers into decimal.
+Binary Addition
+You may be asked to add two binary numbers together. You will not be asked to add numbers
+bigger than eight bits.
+Binary addition is simpler than denary addition as there are fewer things to remember.
+0 + 0 = 0
+1 + 0 = 1
+1 + 1 = 0 and carry 1
+00000011
+00010110
+00011011
+00100010
+00100111
+00101011
+00110000
+00110010
+00110100
+00110100
+01010110
+01100000
+01110000
+01111010
+10000110
+10001101
+10100011
+10101001
+11101101
+11110101
+Binary Page 69
+DATA REPRESENTATION
+Adding two binary numbers
+By following the simple rules we get the answer:
+You will never be asked to add up numbers that are more than 8 bits.
+What happens if we need to carry a 1 after the 128 column?
+The last carry digit has nowhere to go. This is an overflow leading to an incorrect answer.
+128 64 32 16 8 4 2 1
+0 1 1 0 1 0 1 0
+0 0 1 0 1 0 0 1
+128 64 32 16 8 4 2 1
+0 1 1 0 1 0 1 0
+0 0 1 0 1 0 0 1
+1 0 0 1 0 0 1 1
+128 64 32 16 8 4 2 1
+1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0
+Binary Page 70
++
++
++
+DATA REPRESENTATION
+Exercise
+Add the following pairs of binary numbers. Answers as an eight bit binary number.
+HEXADECIMAL
+Hexadecimal is another number system used in computer science. It is often used as a shorthand
+way of writing a binary number.
+Hexadecimal is a base 16 number system. So the column headings are based on powers of 16.
+This gives us a problem as the number 16 has 2 digits and number systems need to have just a
+single digit in each column.
+So the number 10 above in base 16 is the same as 16 in denary, 1 sixteen and zero units. The
+problem arises when we have more than 9 units.
+The example above us impossible. If we were to write down 010 in base 16 we would confuse it
+with the previous example.
+00000111 + 00000011
+00011000 + 00000101
+00100000 + 00011111
+01001110 + 00010110
+11001000 + 00111000
+16 U
+1 0
+16 U
+0 10
+Hexadecimal Page 71
+DATA REPRESENTATION
+The solution is to use letters instead of numbers. So the values that you can get in a column in base
+16 are as follows.
+So if we want to display the number 12 as a hexadecimal number we would write C. We would write
+20 in hexadecimal as 14 and we would write 31 in hexadecimal as 1F (one 16 and 15 units).
+How is this used as a short cut for a binary number?
+Well look at the following binary number.
+We can split this into two 4 bit chunks (nibbles) like this.
+Looking at the right most digits we can see that it is the number 12 in denary. We can write this as
+the hexadecimal number C.
+Now looking at the left most digits in the same way. We will deal with the column headings just like
+we did for the right most digits.
+Denary Hexadecimal
+0-9 0-9
+10 A
+11 B
+12 C
+13 D
+14 E
+15 F
+128 64 32 16 8 4 2 1
+1 0 1 0 1 1 0 0
+128 64 32 16 8 4 2 1
+1 0 1 0 1 1 0 0
+Hexadecimal Page 72
+8 4 2 1
+1 1 0 0
+128 64 32 16
+1 0 1 0
+DATA REPRESENTATION
+So 1010 in binary is ten in denary.
+We would write this as A in hexadecimal. So the binary number 10101100 can be written more
+simply as AC in hexadecimal.
+Remember that AC means:
+So this means there are 10 sixteens and 12 units. This makes 160 + 12 = 172.
+Checking this against the binary 10101100 we have 128 + 32 + 8 + 4 = 172
+Lets look at another example. The number 01101001 in binary would result in:
+16 U
+A C
+128 64 32 16 8 4 2 1
+0 1 1 0 1 0 0 1
+16 U
+6 9
+Hexadecimal Page 73
+128 64 32 16
+1 0 1 0
+8 4 2 1
+1 0 1 0
+8 4 2 1
+1 0 0 1
+6 9
+128 64 32 16
+0 1 1 0
+DATA REPRESENTATION
+Converting from denary to hexadecimal and back again
+To convert a number from denary to hexadecimal we first divide the number by 16. So if we look at
+the denary number 75. If we divide 75 by 16 we get 4 remainder 11(16 * 4 = 64 so 75 - 64 gives us
+a remainder of 11). So the number in the 16s column is 4 and we have 11 units. Remember we
+need to use letters for denary numbers above 9. So 11 is B in hex.
+So 75 in denary is the same as 4B in hexadecimal.
+To convert a hexadecimal number into denary we need to first convert any letters into numbers.
+Then multiply the first digit by 16 and add on the units. So converting E6 into denary would be 14 x
+16 + 6 = 230
+Exercise
+Convert these numbers into Hexadecimal.
+10001100
+11110000
+11000011
+01111111
+00111100
+Hexadecimal Page 74
+DATA REPRESENTATION
+MEMORY SIZES
+So we now know that the smallest piece of data that can be stored on a computer is one binary digit
+or Bit. This can only store two values, 0 and 1. We have already said that in computers bits are
+usually grouped in 8s to form one byte. What about larger measurements? Look at the table below.
+What unit of size would you typically measure the following files in.
+Name Size
+bit 0 or 1
+nimble 4 bits
+byte 8 bits
+kilobyte 1024 bits
+megabyte 1024 kilobytes
+gigabyte 1024 megabytes
+terrabyte 1024 gigabytes
+File type Typical size
+Text file bytes
+Word processed document
+Picture from the Internet
+An MP3 file
+A Video file
+Memory Sizes Page 75
+DATA REPRESENTATION
+STORING NON-NUMERICAL DATA
+All non numerical data such as text, sounds, images and instructions are first converted into a
+number and then stored as a binary sequence. The computer deals with data depending on the
+instructions given to it.
+TEXT
+Character sets
+Just like numbers, text needs to be stored as a binary code too. Each letter has a particular binary
+code. It is important for transfer of information that the binary codes used for each character are
+known between Operating Systems, so that data can be accurately transferred between computers
+no matter what type of computer system is used.
+Character sets are nothing new.
+Morse code has a character set to describe the codes
+used for letters and numbers. As each telegraph
+operator knew morse code it made it possible to
+transmit text in a binary form (dots and dashes).
+When computers were developed, they needed a way to
+store text that could be encoded. The problem with
+morse code is that each character has a different length.
+The byte is the unit of data storage in a computer and so
+it using this unit that the text has to be stored.
+ASCII
+One of the first character sets created was ASCII. This stands for American Standard Code for
+Information Interchange. This encoded 128 characters in a 7 bit binary code. The characters
+encoded included the alphabet (uppercase and lowercase), numbers, punctuation marks and non
+printing characters such as a line break and a carriage return. The final bit of the eight bit byte was
+initially used as a check digit. Check digits are used to make sure that the data has been transferred
+correctly.
+As computers became more popular and used internationally, problems arose with languages such
+as French and German which have accents on some of their characters. As 8 bit Operating Systems
+were becoming the norm then ASCII was extended to include other glyphs such as accented letters
+and mathematical symbols such as ÷, ≠ and π.
+Assessment 7 Page 76
+DATA REPRESENTATION
+Unicode
+In the 2000’s it became clear that ASCII did not have enough characters for all the symbols that
+needed to be used. Some languages such as Japanese and Mandarin have character sets that are
+much bigger than the latin character sets used by the west. Also some languages such as Arabic
+are read from right to left.
+Unicode was developed to store letters as a 16 bit code. As more bits are used then more
+characters could be encoded. Unicode was designed to be large enough so that would it
+encompass all the characters in all the major languages of the world.
+Most modern computer systems use Unicode to store text.
+Remember that the letter is not actually stored, but a binary code to represent that character. When
+the computer reads that data, a computer program has to figure out which character to display on
+the screen for each binary code.
+There is also a problem when storing numbers. The binary code for the digits 0-9 is not the binary
+numbers 0-9. The ASCII value for the character 5 is 53 in binary. In some computer programs data
+may be stored as text or as numbers. If a calculation needs to be done on numbers which have
+been stored as text characters, then the data will need to be converted into the right data type first.
+Assessment 7 Page 77
+DATA REPRESENTATION
+Exercise
+What is the character in ASCII if the binary value stored is:
+Binary value ASCII Character
+01000001
+01100001
+01100100
+00110010
+Assessment 7 Page 78
+DATA REPRESENTATION
+IMAGES
+Pixels
+Images are broken down into tiny coloured squares called picture elements or pixels for short. Each
+pixel represents just one colour.
+Different images can store different numbers of colours. A simple black an white image only needs to
+store two colours, black and white, and so an image could store the colours as a simple binary
+sequence.
+Example
+The following binary sequence could be used to store this simple picture of an umbrella.
+Storing Images Page 79
+DATA REPRESENTATION
+Shade in the image using the data below.
+Storing Images Page 80
+IMAGE
+IMAGE
+DATA
+0 0 0 0 0 0 0 0
+0 1 0 0 0 1 0 0
+0 1 0 0 0 1 1 1
+0 1 0 0 0 1 0 1
+0 1 0 0 0 1 1 1
+0 1 0 0 0 1 0 0
+1 0 1 1 1 0 0 1
+0 1 1 1 1 1 1 0
+DATA
+0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1
+1 1 0 0 0 0 1 1
+1 0 1 0 0 1 0 1
+1 0 0 1 1 0 0 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 1 1 1 1 1 1 1
+DATA REPRESENTATION
+In the example above a 1 represents black and a 0 represents white.
+If we want more colours then we need to use more data to represent more colours. If we use more
+bits to represent each colour then we can have more colours available to use. This is known as an
+image’s colour depth.
+To display photographic images on the screen 3
+whole bytes (24 bits) are used to represent the
+colour of each pixel. This is split up into one byte for
+each of the primary colours of light, red, green and
+blue. This is because computer displays uses these
+primary colours of light to display all the different
+colours we see on the screen. By mixing the three
+colours with different intensities the display is able to
+show over 16 million different colours.
+The amount of red, green and blue is usually stored
+as an 8 bit value, giving 256 levels of brightness for
+each colour (zero representing no colour and 255
+representing the maximum brightness of that colour). So to represent bright yellow the values 255,
+255,0 can be used to represent the brightness of red, green and blue.
+Complete the table
+No of Bits per pixel No of possible colours
+1
+4
+8
+24
+Storing Images Page 81
+DATA REPRESENTATION
+Image resolution
+Image resolution is a measure of how much detail there is in the image. Resolution is defined as the
+ability to distinguish between two points. In a high resolution image it will be easier to distinguish
+between two dots close together, while in a low resolution image the two dots may become blurred
+into one shape. A high resolution image has smaller pixels and so can pack in more into a smaller
+space. This results in a sharper image, however the file will be larger as it requires more pixels and
+so more data needs to be stored.
+Metadata
+As well as the data about the pixels there is other data that is stored with the
+image that describes the file. This type of data is called metadata as it
+describes the image data. Most images contain some basic meta data such as
+the image height, width or colour depth.
+Some digital cameras also store metadata in the photographs that are taken. This information may
+include data about the camera’s settings when the image was taken, such as the focal length of the
+lens and the exposure settings. If the camera has GPS it may also store the data about where the
+image was taken too. Data stored in my photograph contains data about my camera settings, the
+file size and dimensions, the date and time it was taken as well as the GPS coordinates it was taken
+at.
+Storing Images Page 82
+DATA REPRESENTATION
+IMAGE FILES
+There are three main image files that are used on the Internet. All of them are designed to compress
+the image to make it smaller so that it be transmitted over the Internet faster. The files all compress
+data in different ways.
+JPEGs
+Jpeg files are usually used to store images with lots of colours and complex shading. These are
+generally photographs. Look at this photograph.
+The image is split up into a grid. Each block on the grid is dealt with individually.
+
+The image is split up into regions using a grid
+Each block in the grid is dealt with on its own.
+
+The shades of the colours are compared with their neighbours. If the shades are similar then they will
+be combined. This loses data and so a Jpeg is a lossy format.
+Storing Images Page 83
+Original pixels Compressed
+pixels
+DATA REPRESENTATION
+GIFs
+GIFs can only store a maximum of 256 colours, one of which can be transparent. This means that it
+works best for cartoon like graphics and logos. Look at the graphic to the left. If we assign values to
+the pixels where: Blue = x Red = y Green = z, now we can describe this image row by row. The first
+row is all blue, so five x's would represent the five blue pixels in the first row. The following rows are a
+little more complicated:
+1: x-x-x-x-x
+2: x-y-y-z-z
+3: y-z-y-z-y
+4: z-z-z-y-z
+5: x-x-x-x-x
+When a GIF is compressed, the description could look more like
+this:
+1: 5x
+2: x-2y-2z
+3: y-z-y-z-y
+4: 3z-y-z
+5: 5x
+As you can see, longer stretches of a solid color make the file more compressible (lines 1 and 5 are
+the most compressed) and speckled images cannot compress (line 3 is not compressed at all).
+When the color changes with each pixel in a row, there is no shorter way to convey the information.
+So images with large blocks of the same colour compress very well. As data is not lost when the
+image is compressed the file format is lossless.
+Storing Images Page 84
+DATA REPRESENTATION
+SOUND
+Analogue Sound
+Sounds are analogue signals. This means that the sound wave has a range of values. Look at the
+blue sound wave below. The height of the wave (amplitude) is the volume of the sound. The distance
+between two peaks is known as the frequency and corresponds to the pitch of the sound.
+The distance between each peak is known as the frequency and is measured in hertz. The height of
+the wave (amplitude) corresponds to the loudness.
+Digital Conversion
+The sound wave needs to be converted to into numbers that can be stored in binary. To convert an
+analogue sound into a digital sound, the computer samples the height of the sound wave a number
+of times a second.
+The number of samples in one second is known
+as the sample rate. This is measured in Hertz (samples per second) or more commonly Kilo Hertz
+(1000 Hz). A CD quality sound is sampled at 44kHz. This means the sound wave is checked 44,000
+times a second and the height of the wave at that point is stored as a binary number. This is
+represented by the yellow bars. Notice that this does not follow the pink analogue line perfectly. The
+more times a sound wave is sampled in one second the closer to the original sound wave and the
+Storing Sound Page 85
+DATA REPRESENTATION
+better it will sound. This however results in a larger file. When music is recorded in a studio it is often
+sampled at 192kHz.
+Saving files such as MP3 and WAV files with a lower sample rate will compress a file. This is a lossy
+compression as data is lost in the re-sampling and cannot be brought back. MP3 files also saved
+take advantage of the way our ear works to combine two frequencies to make one without any
+perceivable loss of quality.
+Another factor that determines the quality of the sound as it is digitised is the amount of data used
+to store the height of the wave. This is know as the bit rate.
+A 2 bit number can only have 4 possible values. This would not accurately measure the different
+possible wave heights. If we used 8 bits there would be 255 different levels of volume that could be
+encoded. This would result in telephone quality sound. For music 16 bits are more commonly used,
+giving 65536 different possible values for the height of the wave. This can more accurately give a
+smoother transition between different volumes.
+Storing Sound Page 86
+DATA REPRESENTATION
+An artist is recording sound using a computer. The graph below represents the pressure wave of the
+sound being recorded.
+At point A on the graph, the size of the sound wave is 90. This is stored digitally using the binary
+value of 0101 1010 (or 5A in Hex). Complete the table below to show how points B and C are
+stored:
+Explain how sampling intervals and compression can affect the size of a sound file and the quality of
+its playback. The quality of your written communication will be assessed in your answer to this
+question.
+Point A Point B Point C
+Size 90
+Binary value 01011010
+Hex Value 5A
+Storing Sound Page 87
+DATA REPRESENTATION
+INSTRUCTIONS
+Encoding Instructions
+When the first computers were created they were just simple calculating devices. If you wanted to
+change what the computer did then you needed to rewire the computer.
+In World War II an American scientist called John Von Neumann was thinking about this problem. He
+thought that there was no difference between data and a digital instruction. He thought that both
+data and the computer programs that work on that data could be stored in the computers memory.
+The instructions could determine which data to retrieve from which memory location and what to do
+with it. This is called a store-program computer and is the basis for modern computing.
+Storing Instructions
+Each computer processor understands a series of instructions. Each instruction is a binary
+sequence. Each processor has its own set of instructions that it understands. These instructions
+carry out actions on the data that is stored in the memory. This may mean moving data from
+memory to another location, such as a register in the processor, or adding data from two different
+locations together.
+These instructions are located in one part of the computer’s memory while the data is located in a
+different part. Both the data and the instructions can be accessed via the address of the memory
+location. The instructions have two parts to them. The instruction and the memory address of the
+data they are operating on. As these instructions and the memory addresses are both binary, this
+can cause problems for programmers who need to write instructions in this way.
+Assembly code is a way of using short text commands and memory addresses instead of binary.
+This code can then be converted into binary by an assembler.
+Example
+LDR R1, [R5]
+This LOADs the Register R1 with the value from location R5.
+STR R1, [R6]
+This STORES the value in register R1 into memory location R6.
+The instructions LDR and STR will have specific binary bit patterns that the computer processor
+understands. When the computer comes across the bit patterns it knows how to follow that
+instruction. Each instruction is followed in turn. Some instructions tell the processor to jump to
+another location and carry out instructions from there.
+Writing in assembly language is difficult and specific to the type of processor. Most computer
+programs are written in a higher programming language.
+Storing Instructions Page 88
+DATA REPRESENTATION
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) define the terms bit, nibble, byte, kilobyte, megabyte, gigabyte, terabyte
+b) understand that data needs to be converted into a binary format to be processed by a
+computer.
+c) convert positive denary whole numbers (0-255) into 8-bit binary numbers and vice versa
+d) add two 8-bit binary integers and explain overflow errors which may occur
+e) convert positive denary whole numbers (0-255) into 2-digit hexadecimal numbers and vice versa
+f) convert between binary and hexadecimal equivalents of the same number and explain the use
+of hexadecimal numbers to represent binary numbers.
+g) explain the use of binary codes to represent characters. Be able to explain the term character
+set and describe with examples (for example ASCII and Unicode) the relationship between the
+number of bits per character in a character set and the number of characters which can be
+represented.
+h) explain the representation of an image as a series of pixels represented in binary and explain the
+need for metadata to be included in the file such as height, width and colour depth. Be able to
+discuss the effect of colour depth and resolution on the size of an image file.
+i) explain how sound can be sampled and stored in digital form and explain how sampling
+intervals and other considerations affect the size of a sound file and quality of its playback.
+j) explain how instructions are coded as bit patterns and explain how the computer distinguishes
+between instructions and data
+Assessment 7
+Targets
+Grade Description Achieved?
+F
+D
+C
+A
+Target Need to achieve
+Assessments Page 89
+DATA REPRESENTATION
+ASSESSMENT 7
+1. What are these binary numbers in denary (base 10)? (5)
+2. Convert the following denary numbers into binary. (5)
+3. Add up the following binary numbers as an 8 bit binary number. (2)
+Binary Denary
+00100010
+01000100
+01100100
+01111111
+10010110
+Denary Binary
+1 7
+4 7
+7 4
+120
+255
+0 1 1 0 1 0 1 0
+0 1 0 0 1 0 0 1
+Assessment 7 Page 90
++
+DATA REPRESENTATION
+4. Add up the following binary numbers as an 8 bit binary number. (2)
+Why is the answer wrong?
+5. What are the following binary numbers as their hexadecimal equivalent? (4)
+6. Order the following in terms of the size in a computer’s memory.(3)
+a video file, a short text document, an MP3, a photograph
+1 1 1 0 0 0 0 0
+0 1 0 1 1 0 1 1
+Binary Hexadecimal
+00100000
+00111111
+10100000
+11111111
+File size (largest first)
+Assessment 7 Page 91
++
+DATA REPRESENTATION
+ASSESSMENT 8
+1. What is meant by a character set?(1)
+2. What is the difference between how the number 5 is stored as an integer and when it is stored
+as a character? (2)
+3. What is the difference between ASCII and Unicode?(2)
+4. When storing sound, how does the sample rate effect the file size and the quality of the sound
+saved? (2)
+5. What is meant by bit rate in terms of sound files and how does it effect the quality of a sound?(2)
+Assessment 8 Page 92
+DATA REPRESENTATION
+6. When a photograph is taken using a smart phone, meta-data is stored along with the file. What
+is meant by meta-data and give examples of the type of data that could be stored? (3)
+7. What is the smallest element of a picture called? (1)
+8. A picture file uses 4 bits to store colour information. How many different colours can it display?
+(1)
+9. What is meant by image resolution? (2)
+10. Instructions for computer programs are stored as binary numbers. How do these numbers
+result in the computer carrying out the instructions to complete a program.(2)
+Assessment 8 Page 93
+DATABASES
+DATABASES
+database |ˈdeɪtəbeɪs|
+noun
+a structured set of data held in a computer, especially one that is
+accessible in various ways.
+Page 94
+DATABASES
+Introduction
+WHAT IS A DATABASE?
+A database is a data that is stored in an organised way to make
+searching through it to find information easier. We have had databases
+long before computers.
+Address books are an example. People would have a special book to
+write the names an addresses of the people who you know stored in
+alphabetical order. So if you wanted to write to Becky Smith you would
+open your book to the S section and look through until you found the
+entry for Becky Smith. The problem with address books is that while they have sections for each
+letter of the alphabet, the entries within each section are probably not in any order. If you have 30
+names and addresses under one letter, you would still have to look at each in turn until you found
+the correct one. This is because you may enter a new name and address into the book at anytime.
+You may have entered the name and address for Becky Smith and then a week later you make
+friends with Marla Singer and add her into your address book. Singer is before Smith in the alphabet
+and so they would not be in order. Also when people move houses updating the book becomes
+messy as old addresses are crossed out.
+Card files
+The some of the problems with data stored in books can be
+solved by having data on cards. New cards can be added or
+replaced and they can be resorted when new cards are
+added. This is how recipe cards are organised so new ones
+can be added. The cards can be organised in different ways,
+either by main ingredient, or by type of meal (lunch or main
+meal or dessert).
+In Library’s card file systems have been used to help people
+find the books they want. There are often two card file systems
+in libraries. One has the cards ordered by book title and another set has the books ordered by
+author name. This duplication of data is one of the disadvantages
+of a paper based database. Also the way the data is currently
+organised may make searching for data problematic.
+When I check my home telephone to see if someone has called
+whilst I was out (using 1471) I am only given the telephone
+number of the person who has called. If I can only remember a
+handful of telephone numbers then how could I find out who had
+called me? I don’t want to call back someone who I don’t wish to
+What is a database? Page 95
+DATABASES
+speak to (a cold calling sales person for example) but then again the call may be from someone who
+I do wish to speak with. As my paper address book is organised by the surnames of the people in it,
+I cannot easily search through each entry to find the phone number, to see if it is someone I know.
+When computers began to be used to store data, searching for data became easier. The computer
+could sort the data in different ways and I could search through the data more effectively. The
+address book on my phone allows me to search through the list by either forename, surname,
+telephone number and even post code.
+There is special software that manages and searches through databases. These types of software
+are know as Database Management Software (DBMS).
+Flat File Databases
+The databases I have discussed so far can be described as flat file databases. The data is stored as
+a record. Each record has a number of fields to store data. This is like a table made up of rows and
+columns.
+A table column is a database field such as First name, last name and phone number. Each record
+would have data for each of these fields. Looking at the flat file database below we can see that the
+column headings are the fields and the rows are the individual records.
+This data can be searched, to find out who is attending for example. It can also be sorted, in order
+of surname or by how many in the party.
+
+Last
+name
+First
+name
+Phone Email Total in
+Party Attending? Notes
+Ryan Craig (123) 456 8643 cryan@noreply.com 2 TRUE
+Field Diane (123) 456 3103 dfield@noreply.com 1 TRUE
+Smith Richard (123) 456 6498 rsmith@noreply.com 1 FALSE Vegetarian
+Jones Chris (123) 456 5264 cjones@noreply.com 1 TRUE No dairy
+products
+Summers Christine (123) 456 4123 csummers@noreply.com 1 TRUE
+Sloan Robert (123) 456 5503 rstevents@noreply.com 2 TRUE
+Scott Marie (123) 456 6791 mrichards@noreply.com 1 FALSE
+Johnson Kelly (123) 456 2766 kjohnson@noreply.com 1 TRUE
+What is a database? Page 96
+DATABASES
+Computer based databases have advantages over paper based ones.
+Computer based DB Paper based DB
+What is a database? Page 97
+DATABASES
+Problems with Flat File Databases
+There are problems however with flat file computer databases. These problems occur when the
+number of fields increase. Look at the table below.
+This flat file database is for a hospital that loans out equipment to out patients. In the database data
+about both the patient and the item loaned needs to be stored. As items are returned then the item
+can appear in the database more than once. So you can see that the Crutch Adult - CA1 gets
+loaned more than once, as does Crutch Adult - CA2. Patients can also return, so their details will
+need to be entered for every item that is loaned to them. This duplication of data is time consuming
+to enter and also makes the database very large very quickly, making searching through it slower.
+Duplicating data is known as data redundancy.
+Another problem is that items can only be entered if they are loaned out. What happens if there is a
+new wheel chair WCL2. This would only get entered if when it is loaned out. This is not good record
+keeping. Also if a patient changed their address, do you update the past records too or leave them.
+This may look like two different patients if you do not, but this could be a lot of updates if you do.
+In order to fix these problems the data can be split up into smaller tables that can be linked together.
+This is called a relational database.
+Surname Forename Address1 Town/City Post
+Code
+Phone Ward Item
+Code
+Description price Date
+Loaned
+Date
+Returned
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA1 Crutch -
+Adult
+£25 02/05/13 05/05/13
+Gumble Barney 7 Beer
+Gardens
+Springfield SP24
+6AW
+01471
+555
+421
+W6 CA2 Crutch -
+Adult
+£25 03/05/13 14/05/13
+Cartman Eric 1245
+Snowy
+Cresent
+South Park SP 12
+7UY
+01247
+555
+874
+W6 NCJ1 Neck Collar
+- Junior
+£6 03/05/13 10/05/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W3 WCL
+1
+Wheel
+Chair -
+Large
+£300 07/05/13 16/05/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA1 Crutch -
+Adult
+£25 07/05/13 09/05/13
+Gumble Barney 7 Beer
+Gardens
+Springfield SP24
+6AW
+01471
+555
+421
+W6 CA2 Crutch -
+Adult
+£25 21/05/13 28/05/13
+Cartman Eric 1245
+Snowy
+Cresent
+South Park SP 12
+7UY
+01247
+555
+874
+W6 WCJ
+1
+Wheel
+Chair -
+Junior
+£250 03/06/13 09/06/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA2 Crutch -
+Adult
+£25 06/06/13 19/06/13
+What is a database? Page 98
+DATABASES
+DATABASE MANAGEMENT SYSTEMS
+The database is the file or files that store the data. Often this data is separate from the program that
+actually manipulates that data. The application used to access, manipulate and present the data is
+known as a Database Management System (DBMS). The separation of the data from the DBMS is
+often desirable for a number of reasons.
+• Standard way of Accessing Data - the DBMS provides a uniform way of accessing the data,
+regardless of how that data is stored. Many DBMS’s use a special programming language called
+SQL (Structured Query Language) to access the data. The DBMS uses these SQL commands to
+access the data in the databases. This may mean pulling together data from a number of
+separate files. SQL can be used both to create new databases and tables as well as accessing
+and querying existing databases.
+• Security - The DBMS provides a level of security around the data, allowing you to password
+protect the data and even giving different users different access.
+• Multi User Access - the database can be accessed by different users and even different
+applications at the same time. This means that the data could be accessed through a website by
+one user and by an administrator updating records through the DBMS software.
+• Data Maintenance - The DBMS makes sure that the data is stored efficiently and also keeps data
+integrity. If a record exists in one table that is linked to data in another table, the DBMS makes
+sure that you cannot delete one record without also deleting related records.
+Modern databases are often relational databases and so the software used to create and manage
+such systems are known as Relational Database Management Systems (RDBMS). Examples of
+which include Microsoft Access, MySQL and Base which is included in the Open Office suite of
+applications.
+DBMS Page 99
+DATABASES
+Relational Databases
+SOLVING THE PROBLEMS OF FLAT FILE DATABASES
+Looking again at our bad flat file database we can see that the first issue is that that we have
+duplication of a lot of data. This is known as data redundancy.
+A relational database solves this by separating the data into different tables. To do this we use the
+concept of entities. An entity is a thing. This can be a physical thing like a customer or a item to be
+loaned, or it can be a concept like the loan itself. Each entity is stored in its own table. However
+these entities are related to each other and so we need a way of keeping this relationship intact.
+Each record in a table is unique and is given a unique identifier. This identifier is used to create a link
+between tables. An identifier can be any field as long as its unique. Unfortunately unique fields are
+hard to come by, so often a number is often generated that is unique. This is why we often have ID
+numbers for this like passports, bank accounts and student IDs in schools.
+Looking at our bad flat file database we can see that we only have 3 patients that are in the
+database multiple times. We can create a Patient table and create an unique ID for each record in
+the table. The unique ID field is known as a Primary Key. A Primary Key is a field that uniquely
+Surname Forename Address1 Town/City Post
+Code
+Phone Ward Item
+Code
+Description price Date
+Loaned
+Date
+Returned
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA1 Crutch -
+Adult
+£25 02/05/13 05/05/13
+Gumble Barney 7 Beer
+Gardens
+Springfield SP24
+6AW
+01471
+555
+421
+W6 CA2 Crutch -
+Adult
+£25 03/05/13 14/05/13
+Cartman Eric 1245
+Snowy
+Cresent
+South Park SP 12
+7UY
+01247
+555
+874
+W6 NCJ1 Neck Collar
+- Junior
+£6 03/05/13 10/05/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W3 WCL
+1
+Wheel
+Chair -
+Large
+£300 07/05/13 16/05/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA1 Crutch -
+Adult
+£25 07/05/13 09/05/13
+Gumble Barney 7 Beer
+Gardens
+Springfield SP24
+6AW
+01471
+555
+421
+W6 CA2 Crutch -
+Adult
+£25 21/05/13 28/05/13
+Cartman Eric 1245
+Snowy
+Cresent
+South Park SP 12
+7UY
+01247
+555
+874
+W6 WCJ
+1
+Wheel
+Chair -
+Junior
+£250 03/06/13 09/06/13
+Simpson Homer 768
+Evergreen
+Terrace
+Springfield SP12
+3WE
+01471
+555
+897
+W4 CA2 Crutch -
+Adult
+£25 06/06/13 19/06/13
+Relational Databases Page 100
+DATABASES
+identifies a record in that table. In table below we can see our new Patient Table with the PatientID
+as the primary key.
+Now we need to link this data to the item loan. Looking at the loan table now we have removed the
+patient data from the table. In its place we have the patientID which is the primary key from the
+Patient table.
+A field that contains a primary key from another table is known as a foreign key. Foreign keys are
+used to create a link between tables. So in record 5 in the Loans table we can see that Patient 1
+loaned the crutch. We can use the patient ID to look up who that is in the Patient table. We can see
+that the patient with the patientID of 1 is Homer Simpson. Using a foreign key in the loan table
+means that we do not have to duplicate all the patient data when they loan an item.
+PatientID Surname Forename Address1 Town/City PostCode Telephone
+1 Simpson Homer 768 Evergreen
+Terrace Springfield SP12 3WE 01471 555
+897
+2 Gumble Barney 7 Beer Gardens Springfield SP24 6AW 01471 555
+421
+3 Cartman Eric 1245 Snowy
+Cresent South Park SP 12 7UY 01247 555
+874
+LoanID Ward ItemCode Description price DateLoaned DateReturned PatientID
+1 W4 CA1 Crutch - Adult £25.00 02/05/2013 05/05/2013 1
+2 W6 CA2 Crutch - Adult £25.00 03/05/2013 14/05/2013 2
+3 W6 NCJ1 Neck Collar -
+Junior
+£6.00 03/05/2013 10/05/2013 3
+4 W3 WCL1 WheelChair -
+Large
+£300.00 07/05/2013 16/05/2013 1
+5 W4 CA1 Crutch - Adult £25.00 07/05/2013 09/05/2013 1
+6 W6 CA2 Crutch - Adult £25.00 21/05/2013 28/05/2013 2
+7 W6 WCJ1 WheelChair -
+Junior
+£250.00 03/06/2013 09/06/2013 3
+8 W4 CA2 Crutch - Adult £25.00 06/06/2013 19/06/2013 1
+Relational Databases Page 101
+DATABASES
+We still have the item information duplicated. When we remove this entity from the Loans table we
+get three tables that can be seen in below.
+This type of database is known as a Relational Databases due to the relationships between each
+table. A RDBMS has a number of components that are used to access the data stored in the
+database. Accessing the data directly through the tables is not recommended. Often data is
+accessed through forms, queries and reports.
+PatientID Surname Forename Address1 Town/City PostCode Telephone
+1 Simpson Homer 768 Evergreen
+Terrace Springfield SP12 3WE
+01471 555
+897
+2 Gumble Barney
+7 Beer
+Gardens Springfield SP24 6AW 01471 555
+421
+3 Cartman Eric 1245 Snowy
+Cresent South Park SP 12 7UY
+01247 555
+874
+LoanI
+D
+Ward
+Item
+Code
+Date
+Loaned
+Date
+Returned
+PatientID
+1 W4 CA1 02/05/2013 05/05/2013 1
+2 W6 CA2 03/05/2013 14/05/2013 2
+3 W6 NCJ1 03/05/2013 10/05/2013 3
+4 W3 WCL1 07/05/2013 16/05/2013 1
+5 W4 CA1 07/05/2013 09/05/2013 1
+6 W6 CA2 21/05/2013 28/05/2013 2
+7 W6 WCJ1 03/06/2013 09/06/2013 3
+8 W4 CA2 06/06/2013 19/06/2013 1
+ItemCode Description price
+CA1 Crutch - Adult £25.00
+CA2 Crutch - Adult £25.00
+NCJ1 Neck Collar -
+Junior
+£6.00
+WCL1 WheelChair - Large £300.00
+CA1 Crutch - Adult £25.00
+CA2 Crutch - Adult £25.00
+WCJ1 WheelChair -
+Junior
+£250.00
+CA2 Crutch - Adult £25.00
+Relational Databases Page 102
+DATABASES
+Forms
+A form is used for data entry.
+They provide a more user
+friendly way of entering data
+into a table and even multiple
+tables in one form. A user form
+can also provide some data
+validation checks. Validation
+checks are used to make sure
+that the data is in a valid form
+before it is entered. This can
+anything from making sure a
+telephone number is the
+correct length to making sure
+an item number actually exists. Forms can also make some database fields read only so that some
+data cannot be altered.
+Reports
+Reports are used to properly
+format data from queries or
+when the data needs to be
+printed out. The reports can
+calculate results based on the
+data from fields, adding up the
+prices to give a grand total for
+example.
+Relational Databases Page 103
+DATABASES
+Queries
+Queries when the DBMS selects and
+searches for specific data from the
+database. This can be done using a
+specialist language like SQL or can be
+done through a query by example
+interface which is often easier for
+beginners.
+Queries are really important in
+databases, allowing us to get to the data we need.
+Looking back at our hospital loans example database we have three tables. If we wanted to search
+for data relating to the loans we would need to start with the loans table.
+If we wanted to know what loans patient two had we could query the data using
+PatientID = 2
+This would return these rows.
+We can see that the patient has loaned the same item on two different occasions.
+We could find out which which loans were done with patients in Ward W6 by using this query:
+Loans
+LoanID Ward ItemCode DateLoaned DateReturned PatientID
+1 W4 CA1 02/05/2013 05/05/2013 1
+2 W6 CA2 03/05/2013 14/05/2013 2
+3 W6 NCJ1 03/05/2013 10/05/2013 3
+4 W3 WCL1 07/05/2013 16/05/2013 1
+5 W4 CA1 07/05/2013 09/05/2013 1
+6 W6 CA2 21/05/2013 28/05/2013 2
+7 W6 WCJ1 03/06/2013 09/06/2013 3
+8 W4 CA2 06/06/2013 19/06/2013 1
+PatientID = 2 Query Results
+LoanID Ward ItemCode DateLoaned DateReturned PatientID
+2 W6 CA2 03/05/2013 14/05/2013 2
+6 W6 CA2 21/05/2013 28/05/2013 2
+Relational Databases Page 104
+DATABASES
+Ward = “W6”
+That would return this data.
+As the field contains text data, the query must put the data in quotes.
+MORE COMPLEX QUERIES USING LOGICAL
+OPERATORS
+Sometimes we need to select data between particular ranges. If we wanted to know about all the
+loans in may 2013 we would need all the dates equal to or greater than 1st May and all those below
+or equal to 31st May.
+DateLoaned >= 1/05/2013 AND DateLoaned<= 31/05/2013
+That would return the following data.
+The query uses the AND keyword to make sure that both criteria are met. The date must be both
+greater than or equal to 1/05/2013 AND be less than or equal to 31/05/2013.
+Ward = “W6” Query Results
+LoanID Ward ItemCode DateLoaned DateReturned PatientID
+2 W6 CA2 03/05/2013 14/05/2013 2
+3 W6 NCJ1 03/05/2013 10/05/2013 3
+6 W6 CA2 21/05/2013 28/05/2013 2
+7 W6 WCJ1 03/06/2013 09/06/2013 3
+DateLoaned >= 1/05/2013 AND DateLoaned<= 31/05/2013
+Query Results
+LoanID Ward ItemCode DateLoaned DateReturned PatientID
+1 W4 CA1 02/05/2013 05/05/2013 1
+2 W6 CA2 03/05/2013 14/05/2013 2
+3 W6 NCJ1 03/05/2013 10/05/2013 3
+4 W3 WCL1 07/05/2013 16/05/2013 1
+5 W4 CA1 07/05/2013 09/05/2013 1
+6 W6 CA2 21/05/2013 28/05/2013 2
+Relational Databases Page 105
+DATABASES
+If we wanted all the adult crutch loans we could perform this query.
+ItemCode = “CA1” OR ItemCode = “CA2”
+That would return these rows.
+We use the OR keyword to make sure we return records that match either “CA1” or “CA2”. Each
+record can only be one or the other, not both so here we need to use the OR operator.
+AND & OR are know as logical operators. NOT is another logical operator. It means do not get
+records that have this value.
+Another way of performing the last query is to use a wildcard. A wildcard is a symbol (usually an
+asterisk) to represent any other letters or numbers.
+So the query
+ItemCode = “CA”*
+is the same as
+ItemCode = “CA1” OR ItemCode = “CA2”.
+ItemCode = “CA1” OR ItemCode = “CA2” Query Results
+LoanID Ward ItemCode DateLoaned DateReturned PatientID
+1 W4 CA1 02/05/2013 05/05/2013 1
+2 W6 CA2 03/05/2013 14/05/2013 2
+5 W4 CA1 07/05/2013 09/05/2013 1
+6 W6 CA2 21/05/2013 28/05/2013 2
+8 W4 CA2 06/06/2013 19/06/2013 1
+Relational Databases Page 106
+Table name:
+Table name: 
+DATABASES
+DATABASE TASK
+A music player has a database of tracks. We are going to use this as an example.
+In a DBMS create the following table.
+Save the table and enter the data below.
+Field Data type Validation rule Default value
+TrackID Auto number (Primary
+Key)
+Artist Short Text
+Track Short Text
+Length Date/Time
+Rating Number (byte) >=0 and <=5 0
+TimesPlayed Number (integer) >=0 0
+ReleaseDate Number (integer) <=Year(now())
+MUSIC
+Track
+ID
+Artist Track Length Rating TimesPlayed ReleaseDat
+e
+1 Dead Sea
+Skulls
+I wanna buy
+a rolex
+3:15 4 21 2014
+2 Eureka
+Machines
+Popstar 3:43 5 98 2013
+3 Hey Hello Feral Days 3:42 4 43 2013
+4 3 Colours Red Pure 3:08 3 78 1997
+5 CJ Wildheart Down the
+Drain
+2:43 3 15 2014
+6 The Wildhearts Red Light -
+Green Light
+2:53 4 45 1996
+7 The Wildhearts Caffeine
+Bomb
+2:41 5 54 1994
+8 Baby Chaos Swimming
+Trunks
+2:33 4 12 1998
+9 Hey Hello Swimwear 2:18 5 43 2013
+10 Eureka
+Machines
+Champion
+the Underdog
+3:59 5 60 2011
+Relational Databases Page 107
+DATABASES
+Using this database run the following queries. Write in the criteria you used to search for the data
+required.
+1. Songs that have a rating over 3.
+2. Songs that have been played less than 20 times.
+3. Artists that released songs in 2014 or 2013.
+4. Songs that are less than 3 minutes long.
+5. Songs that contain the word swim.
+6. Songs released in the 1990s that have a rating of 5.
+7. Songs that have been play more than 50 times that were not released in the 1990’s.
+Relational Databases Page 108
+DATABASES
+DATA VALIDATION
+It is important that the data in a database is sensible and correct. Validation helps in this process by
+checking to see if the data being entered is sensible and valid and in the correct format.You often
+see this being performed on web forms which often send their data into a database.
+One database may contain a table to store bookings. One field may store the date for the booking.
+We could enter the data as 21/3/2014 or 21st March 2014. Americans often put the month first so
+they would enter 3/21/2014. If we are going to be able to search through the data we need to store
+it consistently. Validation can help us enter data in the correct format. Validation is also used to make
+sure the data is sensible. 30th Feb 2014 is not a valid date, so we should not allow that to be
+entered into our database.
+There are different types of validation checks that can be
+performed on data before it is allowed into our database.
+• Presence check - This is the simplest of all validation
+checks. it simply checks to see if data is being entered into
+a field. Often these fields have an asterisk showing they are
+required and are highlighted if they are left blank.
+• Date Check - This field will often be a calendar to make
+sure a valid date is selected. The calendar ensures it shows
+they correct year, allowing the user to pick easily.
+• Range Check - This type of validation ensures that
+numerical data is between a particular range. Shoe sizes
+may go from 4 to 12 on a particular online shopping site.
+• Length Check - This will check to see if the length of the
+data is acceptable. Mobile phone numbers, ISBN numbers
+and credit card numbers all have particular lengths. If the
+data was too short of too long then the data would not be
+valid.
+• Format check - Some fields require data to be in a
+particular format. Some product codes may need to have a
+combination of letters and numbers in a particular order. Car
+registrations have to follow a particular format, so do Post
+Codes. National insurance numbers follow a particular
+format, LL 99 99 99 L where L is a letter and 9 is a number
+0-9.
+• Lookup check - This type of validation looks up the data to
+make sure it exists. This could be a product number in a
+catalogue superstore or a car registration number on an
+insurance website.
+Database Task Page 109
+DATABASES
+• Check digit - Some numbers end in a number that is calculated from the previous numbers.
+Credit card numbers, ISBN numbers and barcodes all have a check digit. If any number is
+incorrectly entered the check digit calculated will not match the one entered.
+Validation does not check to see if the data is correct, only if the data is sensible and valid. If a field
+asked me to enter my date of birth I could enter 21/3/1981. This would be a valid date, but it is not
+by true birthdate.
+Some fields are difficult to validate. People’s names are very hard to validate. While most people
+have names that probably appear and a baby naming book, what about foreign names and those
+parents who give their children made up names. In New Zealand some children were named
+Violence; Number 16 Bus Shelter; Midnight Chardonnay; Benson and Hedges.( http://
+news.bbc.co.uk/1/hi/7522952.stm) These names would be hard to validate for.
+Database Task Page 110
+DATABASES
+SEPARATING DATA FROM APPLICATIONS
+Having a database on a single user computer is perhaps OK for a small business but usually the
+databases needs to be accessed by a number of people, sometimes millions of people.
+Often the database will be stored on a server, allowing access via a number of different applications.
+A search engine like Google has a database of web-pages on the Internet and keywords that link to
+them. This database can be accessed through a web-browser, but the same data can be displayed
+through the GoogleMaps application on a mobile phone.
+FaceBook store millions of accounts in their database along with all the data people post online. This
+data can be accessed via a web browser, or mobile app but can also be accessed via games like
+Candy Crush or Words with Friends, allowing you to see which of your friends are playing the game.
+The separation of the data in the database from the application that uses it gives the users greater
+flexibility in how the data can be used.
+Separation of data from applications Page 111
+Facebook database
+Game pulls
+friend data
+from Facebook
+database
+Facebook
+App pulls
+data from
+the
+database.
+DATABASES
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) describe a database as a persistent organised store of data
+b) explain the use of data handling software to create, maintain and interrogate a database.
+c) describe how a DBMS allows the separation of data from applications and why this is desirable
+d) describe the principal features of a DBMS and how they can be used to create customised data
+handling applications.
+e) understand the relationship between entities and tables
+f) understand the components of a relational database, such as tables, forms, queries, reports
+and modules
+g) understand the use of logical operators in framing database queries
+h) explain the use of key fields to connect tables and avoid data redundancy
+i) describe methods of validating data as it is input.
+Assessment 9
+Targets
+Grade Description Achieved?
+F Have a basic understanding of a database and how the data is stored.
+D Have a fairly good understanding of a how a computer database is better than a
+paper based one.
+C Have a good understanding of a how a computer database is better than a paper
+based one. Have a good understanding of how a database stores data and some of
+the problems with a flat file database.
+A Have a thorough understanding of how a computer database stores data and of the
+problems with a flat file database.
+Target Need to achieve
+Need to be able to describe a database as a persistent organised store of data
+Need to be able to explain the use of data handling software to create, maintain
+and interrogate a database.
+Assessments Page 112
+DATABASES
+Assessment 10
+Targets
+Grade Description Achieved?
+F Be able to describe some aspects of a relational database and its features.
+E Have a some understanding of the relational database concept and the components
+of a DBMS and their uses.
+D Have a some understanding of the relational database concept and the components
+of a DBMS and their uses. Have a some understanding of how queries are formed.
+C Have a good understanding of the relational database concept and the components
+of a DBMS and their uses. Have a good understanding of how queries are formed.
+B Have a fairly good understanding of the relational database concept and the
+components of a DBMS and their uses. Have a thorough understanding of how
+queries are formed and able to use logical operators.
+A Have a thorough understanding of the relational database concept and the
+components of a DBMS and their uses. Have a thorough understanding of how
+queries are formed and able to use logical operators effectively.
+Target Need to achieve
+Need to be able to describe how a DBMS allows the separation of data from
+applications and why this is desirable.
+Need to be able to describe the principal features of a DBMS and how they can
+be used to create customised data handling applications.
+Need to be able to understand the relationship between entities and tables
+Need to be able to understand the components of a relational database, such
+as tables, forms, queries, reports and modules
+Need to be able to understand the use of logical operators in framing database
+queries
+Need to be able to explain the use of key fields to connect tables and avoid
+data redundancy
+Need to be able to describe methods of validating data as it is input.
+Assessments Page 113
+DATABASES
+ASSESSMENT 9
+1. What is meant by the term entity in terms of databases? (1)
+2. In a database data is stored in tables. The rows and columns have specific names. Label the
+table below. (2)
+3. A card file system is an example of a paper based database. What are the problems with this
+type of system that a computer database does not have? (4)
+CLASSES
+ClassID Subject Room Teacher
+101 English B102 Ms Jones
+102 Maths P101 Ms Smith
+103 Science P012 Ms Kaur
+104 History L009 Ms Wiseman
+Assessment 9 Page 114
+Row is known as a
+Column is known as a
+DATABASES
+4. What is the difference between a database and a database management system? (4)
+5. What is meant by the term data redundancy? (1)
+6. Storing data in a single table can lead to a number of problems. What are the main issues with
+storing data in a single table? (4)
+Assessment 9 Page 115
+DATABASES
+ASSESSMENT 10
+1. In a relational database data is separated into different tables. How are these tables linked
+together to find data? (3)
+2. What is the purpose of validation? (3)
+3. Rita is designing a database for her online clothes store. She is creating a table to store the order
+item details. She has a field that stores the quantity of each item bought and the date. What
+validation rules could she use on each of these fields? (4)
+4. Why is it useful to separate the data from the database management system? (2)
+Quantity field:
+Date field:
+Assessment 10 Page 116
+DATABASES
+5. Below is a flat file database that needs to be converted into three tables to make it a relational
+database.
+Which fields would need to be in each table? Write the name of the table and list the fields that
+would be in each table. You may need to add new fields not listed in the table above. (8)
+Fudge Orders
+Data of order Customer
+First Name
+Customer
+Last Name
+Customer
+Address
+Customer
+Postcode
+Product name Price QTY
+16/10/2012 Fred Marshall 6 New Road,
+Newtown
+NE1 3PW Vanilla Fuffle
+Cake
+£5.99 1
+16/10/2012 Louis Wallis 7 Old Road,
+Newton
+NE1 6TR 18 Swirls Of
+Jack Daniels
+Fuffle
+£7.99 1
+16/10/2012 Louis Wallis 7 Old Road,
+Newton
+NE1 6TR Amaretto 12
+Pc
+£5.99 2
+16/10/2012 Ellie Smith 23 Nice Road,
+Newtown
+NE1 7BF 5 Fuffle Bars £9.99 2
+16/10/2012 Ellie Smith 23 Nice Road,
+Newtown
+NE1 7BF Bustin Vanilla
+Bar
+£2.50 1
+02/11/2012 Fred Marshall 6 New Road,
+Newtown
+NE1 3PW Chocochino £7.00 1
+12/11/2012 Fred Marshall 6 New Road,
+Newtown
+NE1 3PW Baileys Comet
+Fuffle Cake
+£5.99 1
+20/12/2012 Louis Wallis 7 Old Road,
+Newton
+NE1 6TR English
+Summer
+£7.00 1
+Assessment 10 Page 117
+Table name: Table name:
+Table name: 
+COMPUTER COMMUNICATION & NETWORKING
+NETWORKING
+network |ˈnɛtwəːk|
+noun
+1 an arrangement of intersecting horizontal and vertical lines. a spider
+constructs a complex network of several different kinds of threads.
+2 a number of interconnected computers, machines, or operations. a
+computer network.
+Assessment 10 Page 118
+COMPUTER COMMUNICATION & NETWORKING
+WHY NETWORK COMPUTERS?
+Joining computers together, either with cabling such as ethernet or wirelessly can be complex, so
+why do we do it? There are many reasons why we would want to network computer together. The
+main reason is to share. This may be to share files and data, or a resources like a printer or a
+connection to the Internet.
+TYPE OF NETWORK
+There are different types of computer network. They can be defined by the relationship the
+computers have with each other and the way they are joined together. We will look first at the
+relationship between each computer.
+Peer to Peer
+All stations are joined together in the network have equal status. If you have a number of computers
+at home on sharing a wireless router then this is the type of network you will probably have. Each
+device shares the connection to the Internet, whether that is a tablet, games console or computer.
+You may have other shared resources like a printer or even a media server. You may be able to get
+access to your media server through your tablet or games console, to stream music or video on to
+your TV.
+So in a peer to peer network, there is no central computer or data store. You may be able to share
+data from one computer to another. This needs to be set up on each device and is not done
+centrally.
+Applications may be stored on different computers and accessed by all as longer as the owner gives
+permission. Work is backed up on individual user PCs.
+In a peer to peer network you get the benefit of being able to share resources but each computer
+must be set up individually. This is fine for the home but becomes inefficient the more computers you
+have.
+Client-Server Network
+A client-server network has different types of computers. A powerful central computer called a
+server manages the client computers the users use. The data is stored centrally. This means that it
+does not matter which client computer the user logs on to, they can still access all their work.
+In a client server network, the client computers can be managed centrally from the server. This
+means that installation of programs, back ups, security and access rights can all be managed from
+one place. This can save a great deal of time. However this does mean there is a reliance of this
+central computer. If the server goes down then no-one can access anything. Also it is more
+technically challenging to set up and maintain such a network. This means there is often someone
+responsible for managing the computer. For large networks this is the most efficient and flexible
+despite the reliance on the central computers. Effort is taken to make sure this central computer is
+always backed up and working properly.
+Types of Network Page 119
+COMPUTER COMMUNICATION & NETWORKING
+Complete the table to summarise the differences between networks.
+Peer to Peer Client Server
+Types of Network Page 120
+COMPUTER COMMUNICATION & NETWORKING
+TOPOLOGY
+Computers can be joined together in different ways. The way they are joined together is known as
+topology. There are three main network topologies that we need to be aware of.
+BUS NETWORK
+Description
+Advantages
+Disadvantages
+Bus network
+Laptop
+Printer
+Workstation Workstation Workstation
+Workstation
+Types of Network Page 121
+COMPUTER COMMUNICATION & NETWORKING
+RING NETWORK
+Description
+Advantages
+Disadvantages
+Workstation
+Workstation
+Workstation
+Workstation
+Ring network
+Workstation
+Types of Network Page 122
+COMPUTER COMMUNICATION & NETWORKING
+STAR NETWORK
+Description
+Advantages
+Disadvantages
+Server
+Laptop
+Workstation
+Printer
+Workstation
+Laptop
+Workstation
+Workstation Star
+network
+Types of Network Page 123
+COMPUTER COMMUNICATION & NETWORKING
+LOCAL AREA NETWORKS AND WIDE AREA NETWORKS
+As well as being able to describe a network based on its topology, we can also describe a network
+in terms of geography.
+A Local Area Network (LAN) is a network that is on one geographical location. This may be just one
+room of computers or as big as a single site, covering a number of buildings. The computers are all
+connected together through wiring such as ethernet, fibre optic or wireless LAN.
+Some large organisations have more than one site, but still need to communicate between sites.
+These separate LANs are joined together through the telephone networks to create a Wide Area
+Network or WAN. The Internet is the biggest WAN, joining together millions of computers.
+Types of Network Page 124
+COMPUTER COMMUNICATION & NETWORKING
+HOW COMPUTERS COMMUNICATE
+ADDRESSING
+Each computer on a network needs to be uniquely identified so that data can be sent and received
+from it. There are many different ways of doing this.
+Protocols are used to help control network communication. Protocols are a set of rules that all the
+devices on a network must follow if they are to be able to communicate with each other.
+When connected to a network or the Internet each computer will have an Internet Protocol address
+or IP address. This is made up of 4 bytes. We often see this as a series of 4 numbers ranging from
+0-255 separated by full stops. So 10.1.128.240 is an example of an IP address. Computers use
+these addresses to communicate with each other in the same way we use phone numbers.
+These numbers are hard for people to remember, so on the Internet each IP address of a website
+has a domain name, a text based name that is easier to remember. See the next section for more
+details.
+As well as IP addresses, each network interface in a computer (ethernet card or wifi card) also has a
+unique Media Access Control address or MAC address. Each device usually has this address
+hardwired into them when they are manufactured. Again these addresses help a network identify
+each device, making sure that data travels to the correct destination.
+PACKETS AND PROTOCOLS
+Imagine you are an author and you have written a 500 page manuscript which must be sent by post.
+The problem is that due to the postal charges, you can only send 50 pages at a time.
+How do you get the manuscript to your publishers, so they can assemble it correctly?
+Firstly you would split your document into 50 page sections, putting each into an envelope. On the
+envelope you would put the publisher’s address as well as your own address, so they know who
+sent it. You would also need to label each envelope so that the publisher know which set of pages
+were in each. So the first one would be labelled packet 1/10 pages 1-50, the second packet 2/10
+pages 51-100 etc. Then the envelopes could be posted and the publisher knows from the
+envelopes how to reassemble to manuscript. It does not matter if the envelopes do not arrive in
+order. If one goes missing, the publisher can figure out which one it is and ask for a replacement.
+This is how data gets sent around networks.
+Computer Communication Page 125
+COMPUTER COMMUNICATION & NETWORKING
+Use the following terms to explain how data gets sent from one computer to another.
+APPLICATION, PACKET, IP ADDRESS, PROTOCOL, SWITCHES
+Computer Communication Page 126
+COMPUTER COMMUNICATION & NETWORKING
+SECURITY ON NETWORKS
+When we have so many users on a network, security becomes a big issue. In big companies and
+organisations, while they often want to be able to access data from any computer on their network,
+it does not mean that every employee should have the same access to all the data and programs.
+How does a network manager make sure that their network is kept secure?
+Network Security Page 127
+COMPUTER COMMUNICATION & NETWORKING
+MANAGING A NETWORK
+A computer network needs a great deal of
+effort to manage and keep it running
+smoothly. Computer networks often have
+A network manager who has a number of
+responsibilities.
+Each user often has just signed an
+acceptable use policy. This document in
+forms the users have a network can be
+used in an acceptable way. This may be
+different for each organisation. For
+example some companies may prohibit
+the use of USB memory sticks, as they
+may be a source of viruses and other
+malware as well as be a device to steal
+sensitive documents. An acceptable use
+policy would also cover the use of the
+Internet. Internet use in a company is often
+monitored and any unacceptable use could result in the employee being disciplined or even sacked.
+Another task needs to be completed is that of archiving and backing up of data. Computer hardware
+like hard disks can fail. This would result in the loss of all the data that was on the disk. Backing up
+means copying that data onto another storage medium such as another hard disk, a tape or the
+cloud. If I hard disk was to fail and data could be restored from the backup onto a new hard disk.
+Explain Grandfather, Father, Son backup procedures.
+Network Security Page 128
+Email Server Management Server File Server Web Server Application Server
+Internet
+Switch
+Complex networks
+have a large number
+of computers to
+manage
+COMPUTER COMMUNICATION & NETWORKING
+THE INTERNET
+The Internet is an enormous network of networks. Today almost a third of the entire Earth's
+population uses the Internet. We get access to the Internet through Internet Service Providers or
+ISPs. These companies attach to the Internet proper. We connect with them through fixed line or
+mobile phone networks. The Internet is uses a number of technologies to transfer data. Email, World
+Wide Web, File Transfer, Messaging all use the Internet.
+The services that make up the Internet, such as the World Wide Web, are hosted on thousands of
+computers all over the world. Special servers allow access to data and transfer this from server to
+computer. The world wide web for example is hosted on web servers by a variety of web hosting
+companies and private companies. These web servers host the webpages and other files that
+people want to view.
+When you browse the Internet using a web browser, a number of things happen when you request a
+page. Normally when we request a page we type in a web address or click on a hyperlink to an
+address. For example if we clicked on a link to http://www.bbc.co.uk your web browser is making a
+request to that computer. Computers however don't have names, they are identified by numbers
+known as IP addresses. These addresses are stored on special servers called Domain Name
+Service servers. These are a little like telephone directories. The name of the website is looked up in
+one of the DNS servers and finds out the IP address of the web host. The message then gets
+passed on to that server at the BBC. The web server understands that a web page has been asked
+for. It then sends this page back to the computer that asked for it.
+The Internet is often described as a Mesh topology. Draw a mesh network. What are the
+advantages of a mesh network?
+The Internet Page 129
+COMPUTER COMMUNICATION & NETWORKING
+WEB PAGES
+There are billions of web pages on the Internet. These pages are all written in a special language
+called Hypertext Markup Language (HTML).
+HTML is the language of the World Wide Web. Every web page that you have looked at is written in
+this language. HTML is a text based language that tells the web browser (Internet Explorer, Google
+Chrome and the like) how to display the page.
+HTML is made up of tags that describe to the web browser how to display the web page. Tags are
+surrounded by less than and greater than signs, < tag >.
+Tags generally come in pairs. One tag opens the formatting and the closing tag ends the formatting.
+A closing tag has a slash ( / ) to show that it is a closing tag.
+TAGS
+All web pages start with a <html> tag and end with the closing </html> tag. This tells the web
+browser that the page is a web page.
+Web pages are divided into two sections. The head section contains information that is not
+displayed in the main browser window. This is often JavaScript code that can make the page
+interactive or style information that can make a page look more colourful. The next section is the
+body section. Everything in this section is displayed inside the browser window.
+A basic web page.
+<html>
+<head>
+<title>a basic page</title>
+</head>
+<body>
+A basic web page
+</body>
+</html>
+The Internet Page 130
+COMPUTER COMMUNICATION & NETWORKING
+Tag Description
+<h1> .. <h6> Headings 1 - 6. This tag make text look bold. <h1> is a large
+heading while <h6> is a very small heading
+<a>
+<table>
+<tr>
+<td>
+<form>
+<input>
+<ul>
+<li>
+<img>
+The Internet Page 131
+COMPUTER COMMUNICATION & NETWORKING
+TAG ATTRIBUTES
+Many tags have attributes. These are keywords followed by a value in quotes.
+Eg:
+<table width=“70%”>
+The table tag has a width attribute that is set to 70%. This means the table is 70% of the browser
+window. A common attribute is a tag’s id. This can be used by JavaScript to select a tag to change
+it.
+CSS
+Another web technology is cascading style sheets or CSS. These help provide more style
+information as to how the browser displays the content. CSS cover things like colours and borders
+and helps with organising the layout of the content. Often one style sheet can be used to style a
+series of pages giving them a similar appearance.
+Changing a style sheet can be used to dramatically change the appearance of a web page without
+actually changing the underlying HTML code. This means that web designers can keep their
+websites looking fresh without having to rewrite all their web pages and often by only altering one
+style sheet.
+JAVASCRIPT
+To make web pages interactive a programming language must be used. JavaScript is a script based
+interpreted language that can be embedded in webpages to allow for interactivity and animation. A
+combination of HTML, CSS and JavaScript can be used to create complex interactive websites and
+even games. A version of Angry Birds and Cut the Rope is playable online and all programmed using
+HTML, CSS and JavaScript.
+Javascript is often used to validate forms. This prevents data that is not sensible or acceptable from
+being submitted to websites for processing.
+What types of validation would a car insurance website want to perform?
+The Internet Page 132
+COMPUTER COMMUNICATION & NETWORKING
+FILES OF THE INTERNET
+Web pages are pure text files. The HTML, CSS and JavaScript that make up web pages can be
+viewed using any simple text editor. It is the web browser than converts the tags into the formatting
+we see when we view a page. So what about things like images, sounds and videos? These files are
+linked to inside the HTML code. When the web browser finds these links it requests them from the
+web server and when they have been downloaded, inserts them into the page.
+There are some special file formats that have been developed for use on the Internet. Usually these
+formats are compressed in some way to speed up download times.
+COMPRESSION
+Sending large files over the Internet takes time. Back when most people had dial up modems to
+connect to the Internet, it was very slow to download a web page, 30 seconds or more for a page
+with lots of images. Making sure that the image file sizes were small helped to make sure that these
+download times were as low as possible.
+Nowadays most people have broadband and pages generally load pretty fast. However there is an
+increasing number of people access the Internet on a mobile phone and file sizes not only affect
+speed of download but also affect peoples data limit.
+Compressing a file means finding a way to save the same data into a smaller space. One way to do
+this is to use an algorithm to search for repeating patterns. In many files there is data that is
+repeated. Instead of saving all the data multiple times in a file it is just saved once. When the data is
+repeated a code referring to the data is used instead.
+File Format Use
+JPG
+GIF
+PNG
+PDF
+MP3
+MPEG
+File Types and Compression Page 133
+COMPUTER COMMUNICATION & NETWORKING
+Types of Compression
+There are two types of compression, lossless compression and lossy compression.
+Explain each type of compression and give examples of the type of file/data that could be
+compressed using that method and why.
+Lossless Compression
+Lossy Compression
+File Types and Compression Page 134
+COMPUTER COMMUNICATION & NETWORKING
+ASSESSMENT CRITERIA
+In this topic you should be able to:
+a) explain the advantages of networking stand-alone computers into a local area network and
+describe the hardware needed to connect stand-alone computers into a local area network,
+including hub/switches, wireless access points
+b) explain the different roles of computers in a client-server and a peer-to-peer network and
+describe, using diagrams or otherwise, the ring, bus and star network topologies. Be able to
+describe the differences between a local area network and a wide area network such as the
+internet
+c) explain the terms IP addressing, MAC addressing, packet and protocols
+d) explain the need for security measures in networks, such as user access levels, suitable
+passwords and encryption techniques and describe and justify network policies such as
+acceptable use, disaster recovery, failover, back up, archiving.
+e) describe the nature of the internet as a worldwide collection of computer networks and describe
+the hardware needed to connect to the internet including modems, routers
+f) explain the need for IP addressing of resources on the internet and how this can be facilitated by
+the role of DNS services
+g) explain the importance of HTML and its derivatives as a standard for the creation of web pages
+h) describe common file standards associated with the internet such as JPG, GIF, PDF, MP3,
+MPEG. Be able to explain the importance of compressing files that are transmitted via the
+internet and describe the differences between lossy and lossless compression.
+Assessment 11 Page 135
+COMPUTER COMMUNICATION & NETWORKING
+Assessment 11
+Targets
+Grade Description Achieved?
+F Can understand basic network concepts like topology and other types of network.
+D Can understand different types of networks and their advantages and disadvantages.
+C Can understand different types of networks and their advantages and disadvantages.
+Good understanding of network technologies like IP addressing, protocols and
+packets. Understands that networks need to be managed.
+B Can understand different types of networks and their advantages and disadvantages.
+Good understanding of network technologies like IP addressing, protocols and
+packets. Understands that networks need to be managed and can explain some of
+the issues surrounding network security.
+A Can understand different types of networks and their advantages and disadvantages.
+Thorough understanding of network technologies like IP addressing, protocols and
+packets. Understands that networks need to be managed and can explain the issues
+surrounding network security.
+Target Need to achieve
+explain the advantages of networking stand-alone computers into a local area
+network and describe the hardware needed to connect stand-alone computers
+into a local area network, including hub/switches, wireless access points
+Need to be able to explain the different roles of computers in a client-server and
+a peer-to-peer network and describe, using diagrams or otherwise, the ring, bus
+and star network topologies. Be able to describe the differences between a
+local area network and a wide area network such as the internet
+Need to be able to explain the terms IP addressing, MAC addressing, packet
+and protocols explain the need for security measures in networks, such as user
+access levels, suitable passwords and encryption techniques and describe and
+justify network policies such as acceptable use, disaster recovery, failover, back
+up, archiving.
+Need to be able to explain the need for security measures in networks, such as
+user access levels, suitable passwords and encryption techniques and describe
+and justify network policies such as acceptable use, disaster recovery, failover,
+back up, archiving.
+Assessment 11 Page 136
+COMPUTER COMMUNICATION & NETWORKING
+Assessment 12
+Targets
+Grade Description Achieved?
+F Have a basic understanding of Internet technologies such as IP addressing, DNS,
+HTML and file compression.
+C Have a good understanding of Internet technologies such as IP addressing, DNS,
+HTML and file compression.
+A Have a thorough understanding of Internet technologies such as IP addressing, DNS,
+HTML and file compression.
+Target Need to achieve
+Need to be able to describe the nature of the internet as a worldwide collection
+of computer networks and describe the hardware needed to connect to the
+internet including modems, routers
+Need to be able to explain the need for IP addressing of resources on the
+internet and how this can be facilitated by the role of DNS services
+Need to be able to explain the importance of HTML and its derivatives as a
+standard for the creation of web pages
+Need to be able to describe common file standards associated with the internet
+such as JPG, GIF, PDF, MP3, MPEG. Be able to explain the importance of
+compressing files that are transmitted via the internet and describe the
+differences between lossy and lossless compression.
+Assessment 11 Page 137
+COMPUTER COMMUNICATION & NETWORKING
+ASSESSMENT 11
+1. What is meant by a network? (1)
+2. The way computers are connected in a network is know as topology. What are the three basic
+types of topology and describe an advantage and disadvantage for each. (9)
+3. Explain what is meant by an IP address. (2)
+Network Topology :
+Advantage:
+Disadvantage
+Network Topology :
+Advantage:
+Disadvantage
+Network Topology :
+Advantage:
+Disadvantage
+Assessment 11 Page 138
+COMPUTER COMMUNICATION & NETWORKING
+4. Data is sent around a network in a packet. Explain what is contained in this packet (3)
+5. What is meant by Grandfather - father - son backup? (2)
+6. How are can a network be kept secure? (4)
+Assessment 11 Page 139
+COMPUTER COMMUNICATION & NETWORKING
+ASSESSMENT 12
+1. Explain how a web browser gets the IP address of a web server from entering a domain name
+such as bbc.co.uk. (2)
+2. What hardware do you need to connect a network to the Internet? (1)
+3. What does HTML stand for? (1)
+4. What is CSS used for in web pages? (2)
+5. Files transmitted over the Internet often need to be compressed. Why is this? (1)
+6. What is the difference between lossless and lossy compression?(2)
+Assessment 12 Page 140
+COMPUTER COMMUNICATION & NETWORKING
+7. What are these types of files used for?(5)
+8. It is possible to turn JavaScript off in a web browser. Explain what might happen if you do this
+when you are completing a registration form on a web site.(2)
+File extension Use
+mp3
+jpg
+pdf
+mpeg
+png
+Assessment 12 Page 141
+COMPUTER COMMUNICATION & NETWORKING
+Target Grade
+Current Working Grades
+Half Term 1
+Half Term 2
+Half Term 3
+Half Term 4
+Half Term 5
+End of Year Exam
+Half Term 1
+Half Term 2
+Half Term 3
+Half Term 4
+Assessment 12 Page 142
