@@ -143,6 +143,63 @@ LICENSE
 FILE
 ```
 
+```sh
+dict-generator -l 6 -m 10 http://stackoverflow.com/questions/17420994/bash-regex-match-string https://devmanual.gentoo.org/tools-reference/bash/index.html https://git-annex.branchable.com/upgrades/
+```
+
+```text
+function
+StackExcha
+upgrade
+string
+version
+pattern
+Exists
+repository
+lastPost
+emailhash
+location
+String
+should
+comment
+Overflow
+return
+operator
+document
+available
+offset
+upgrades
+snippets
+script
+service
+answer
+directory
+expression
+following
+length
+second
+construct
+repositori
+direct
+instead
+window
+options
+Integer
+question
+content
+stackoverf
+command
+variable
+u0026g
+Gentoo
+comparison
+negative
+replacemen
+process
+unlocked
+statement
+```
+
 depends on :
 - python3
 - requests :: http://docs.python-requests.org/en/master/
