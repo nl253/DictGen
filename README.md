@@ -59,3 +59,7 @@ generate-dictionary(){
 
 This makes a dictionary with a maximum of 4000k words (2000 upper and 2000 lower) from all files of a given type and outputs that in a specified file.
 
+depends on :
+- python3
+- requests :: http://docs.python-requests.org/en/master/
+- bs4 :: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
