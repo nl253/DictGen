@@ -110,3 +110,4 @@ else:
         Path(args.output).touch()
     Path(args.output).write_text(result)
 
+# vim: ft=python
