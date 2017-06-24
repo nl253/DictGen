@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 from pathlib import Path
 import sys
+import string
 import re
 from collections import Counter
 from argparse import ArgumentParser
@@ -72,9 +73,11 @@ elif args.pattern == 'alpha':
 elif args.pattern == 'alnum':
     pat = '[A-Za-z0-9]'
 
-pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}(?=[- \t\n\.,;:!?])")
+pattern = re.compile("(?:(?:(?:^)|(?:[- \t\n,;:])))" + pat + "{" + args.length + "," + args.maximum + "}(?=[- \t\n\.,;:!?])", flags=re.M)
 
-matchesDict = Counter(pattern.findall(text))
+matches = [re.sub(r'[^\w\s]','',i.group(0).strip()) for i in pattern.finditer(text)]
+
+matchesDict = Counter(matches)
 
 # --stopWordsFilter
 #
