@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from pathlib import Path
 import sys
 import re
@@ -19,7 +19,7 @@ parser.add_argument('-f', '--frequency',
 parser.add_argument('-l', '--length',
                     nargs='?',
                     type=str,
-                    default="2",
+                    default="3",
                     help='specify the minimul [LENGTH] of entries')
 parser.add_argument('-n', '--number',
                     nargs='?',
@@ -44,14 +44,14 @@ args = parser.parse_args()
 
 text = ""
 
-# import pdb ; pdb.set_trace()
 
 # SOURCES
 for i in args.sources:
     source = Path(i)
     if source.exists() and source.is_file():
         try:
-            text += source.read_text()
+            with source.open(encoding='utf-8') as f:
+                text += f.read()
         except Exception as e:
             print(e)
     elif bool(re.search('https?:.*', i)):
@@ -62,6 +62,7 @@ for i in args.sources:
         except:
             pass
 
+
 if args.pattern == 'lower':
     pat = '[a-z]'
 elif args.pattern == 'upper':
@@ -71,7 +72,7 @@ elif args.pattern == 'alpha':
 elif args.pattern == 'alnum':
     pat = '[A-Za-z0-9]'
 
-pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}\b")
+pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}(?=[- \t\n\.,;:!?])")
 
 matchesDict = Counter(pattern.findall(text))
 
@@ -85,6 +86,7 @@ if args.stopWordsFilter and 'nlkt' in map(str, sys.modules):
             matchesDict.pop(i)
 
 result = [i[0] for i in matchesDict.most_common(args.number)] if not args.frequency else matchesDict.most_common(args.number)
+
 
 if args.frequency:
     for i in range(len(result)):
