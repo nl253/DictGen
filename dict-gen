@@ -59,7 +59,10 @@ text = ""
 #
 for i in args.sources:
     if Path(i).exists() and Path(i).is_file():
-        text += Path(i).read_text()
+        try:
+            text += Path(i).read_text()
+        except:
+            pass
     elif not Path(i).exists() and not Path(i).is_file() and validate_url(i):
         text += BeautifulSoup(get(i).content, 'html.parser').text
 
