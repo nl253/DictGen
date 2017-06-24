@@ -1,16 +1,10 @@
 #!/usr/bin/python
 from pathlib import Path
+import sys
 import re
-from nltk.corpus import stopwords
-from bs4 import BeautifulSoup
-from requests import get
 from collections import Counter
 from argparse import ArgumentParser
-
-def validate_url(potentialURL):
-    if re.match('https?:.*', potentialURL):
-        return True
-    return False
+from urllib.request import urlopen
 
 # - choices -- A container of values that should be allowed. If not None,
 # after a command-line argument has been converted to the appropriate
@@ -19,11 +13,6 @@ def validate_url(potentialURL):
 
 parser = ArgumentParser(description='Generate a dictionary from a file (and other tool).')
 parser.add_argument('sources', nargs='+', type=str)
-parser.add_argument('-o', '--output',
-                    nargs='?',
-                    type=str,
-                    default="",
-                    help='The [OUTPUT FILE] where the DICT should be written')
 parser.add_argument('-f', '--frequency',
                     action='store_true',
                     help='Add [FREQUENCY] count to entries ')
@@ -34,13 +23,13 @@ parser.add_argument('-l', '--length',
                     help='specify the minimul [LENGTH] of entries')
 parser.add_argument('-n', '--number',
                     nargs='?',
-                    type=str,
+                    type=int,
                     default="1000",
                     help='specify the [NUMBER] of entries')
 parser.add_argument('-p', '--pattern', nargs='?',
                     type=str,
-                    default="upperlower",
-                    choices=['lower', 'upper', 'alnum', 'upperlower'],
+                    default="alpha",
+                    choices=['lower', 'upper', 'alnum', 'alpha'],
                     help='specify the [CASE] of entries')
 parser.add_argument('-m', '--maximum',
                     nargs='?',
@@ -55,62 +44,54 @@ args = parser.parse_args()
 
 text = ""
 
+# import pdb ; pdb.set_trace()
+
 # SOURCES
-#
 for i in args.sources:
-    if Path(i).exists() and Path(i).is_file():
+    source = Path(i)
+    if source.exists() and source.is_file():
         try:
-            text += Path(i).read_text()
+            text += source.read_text()
+        except Exception as e:
+            print(e)
+    elif bool(re.search('https?:.*', i)):
+        if not 'BeautifulSoup' in dir():
+            from bs4 import BeautifulSoup
+        try:
+            text += BeautifulSoup(urlopen(i, timeout=10).content, 'html.parser').text
         except:
             pass
-    elif not Path(i).exists() and not Path(i).is_file() and validate_url(i):
-        text += BeautifulSoup(get(i).content, 'html.parser').text
 
-# --pattern
-#
-# --length
-#
-# --maximum
-#
-if args.pattern == 'upperlower':
-    pat = '\w'
-elif args.pattern == 'lower':
+if args.pattern == 'lower':
     pat = '[a-z]'
 elif args.pattern == 'upper':
     pat = '[A-Z]'
+elif args.pattern == 'alpha':
+    pat = '[A-Za-z]'
 elif args.pattern == 'alnum':
-    pat = '\S'
+    pat = '[A-Za-z0-9]'
 
-pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}", flags=re.MULTILINE)
+pattern = re.compile(pat + "{" + args.length + "," + args.maximum + "}\b")
 
 matchesDict = Counter(pattern.findall(text))
 
-
 # --stopWordsFilter
 #
-if args.stopWordsFilter:
+if args.stopWordsFilter and 'nlkt' in map(str, sys.modules):
+    from nltk.corpus import stopwords
     SW = stopwords.words('english')
     for entry in matchesDict:
         if entry in SW:
             matchesDict.pop(i)
 
-# --frequency
-#
-if not args.frequency:
-    outputFormat = " str(word + '\\n') "
-elif args.frequency:
-    outputFormat = " word + ' ' + str(frequency) + '\\n' "
+result = [i[0] for i in matchesDict.most_common(args.number)] if not args.frequency else matchesDict.most_common(args.number)
 
-exec("result = ''.join([" + outputFormat + "for word, frequency in Counter("
-    + "matchesDict).most_common(" + args.number + ")])")
-
-# --output
-#
-if not args.output:
-    print(result)
+if args.frequency:
+    for i in range(len(result)):
+        print(result[i][0], result[i][1])
 else:
-    if not Path(args.output).exists():
-        Path(args.output).touch()
-    Path(args.output).write_text(result)
+    for i in result:
+        print(i)
+
 
 # vim: ft=python
